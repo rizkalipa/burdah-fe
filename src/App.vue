@@ -1,28 +1,36 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app" class="relative overflow-hidden">
+    <img src="./assets/img/bg-arabic-2.png" class="absolute -top-14 lg:-top-32 lg:-right-32 w-full -z-10 lg:w-9/12">
+
+    <MainContent />
+
+    <img src="./assets/img/bg-arabic-1.png" class="absolute -bottom-32 w-full -z-10 lg:w-8/12">
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MainContent from "@/components/MainContent.vue";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    MainContent,
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  #app {
+    font-family: Amiri, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+  }
+
+  body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #FCFCFC;
+  }
 </style>
