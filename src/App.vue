@@ -33,4 +33,9 @@ export default {
     background-attachment: fixed;
     background-color: #FCFCFC;
   }
+
+  html {
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+  }
 </style>
