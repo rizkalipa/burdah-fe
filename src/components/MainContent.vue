@@ -10,13 +10,13 @@
     <button
       v-if="isLimitPage"
       @click="getNextPage"
-      class="w-full bg-gradient-to-r from-amber-400 via-amber-200 to-amber-400 p-3 mb-5 rounded flex items-center justify-center shadow-xl"
+      class="w-full bg-gradient-to-r from-amber-400 via-amber-200 to-amber-400 p-3 mb-5 rounded flex items-center justify-center shadow-xl lg:text-xl text-sm"
       v-html="formatLabelNextBtn"
     >
 
     </button>
 
-    <div class="flex bg-amber-50 rounded flex justify-between text-xl">
+    <div class="flex bg-amber-50 rounded flex justify-between lg:text-xl text-sm">
       <button v-if="true" @click="getPreviousPage" class="px-5 py-3 rounded hover:underline">
         {{ `Sebelumnya` }}
       </button>
@@ -66,7 +66,7 @@ export default {
     },
     formatLabelNextBtn() {
       return `
-        Berikutnya (${this.getNextTitle.id})<span class="ml-5 flex items-center"><i class="fas fa-long-arrow-right"></i></span>`
+        ${this.getNextTitle.id} <span class="ml-5 flex items-center"><i class="fas fa-long-arrow-right"></i></span>`
     }
   },
   methods: {

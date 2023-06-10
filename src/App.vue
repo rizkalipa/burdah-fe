@@ -21,7 +21,7 @@ export default {
 
 <style>
   #app {
-    font-family: Amiri, Helvetica, Arial, sans-serif;
+    font-family: Amiri;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;

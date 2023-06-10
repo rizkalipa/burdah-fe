@@ -21,12 +21,18 @@
         :class="idx % 2 ? 'bg-amber-100' : 'bg-amber-50'"
         class="px-8 py-8 rounded border-b-2 border-solid border-amber-500"
     >
-      <div class="text-right">
+      <div class="text-right mb-5">
         <p class="relative" v-html="item[0].ar"></p>
       </div>
+      <div class="text-center">
+        <p class="lg:text-lg text-sm italic" v-html="item[0].id"></p>
+      </div>
       <hr class="my-6 border-amber-500 border-dashed">
-      <div class="md:text-left text-right">
+      <div class="md:text-left text-right mb-5">
         <p class="relative" v-html="item[1].ar"></p>
+      </div>
+      <div class="text-center">
+        <p class="lg:text-lg text-sm italic" v-html="item[1].id"></p>
       </div>
     </div>
     <div v-if="!data.text.length" class="px-8 py-8 bg-amber-50 rounded border-b-2 border-solid border-amber-500">
