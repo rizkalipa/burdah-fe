@@ -1,36 +1,38 @@
 <template>
-  <div class="lg:w-6/12 md:w-8/12 w-11/12 mx-auto my-16 text-amber-950 text-2xl leading-relaxed tracking-wider">
+  <div class="lg:w-6/12 md:w-8/12 w-full mx-auto my-16 text-amber-950 text-3xl leading-relaxed tracking-wider">
     <div class="rounded mb-5 p-8 text-center">
       <h4 class="text-4xl">Qasidah Burdah Al Madih</h4>
-      <p class="italic">قصيدة البردة</p>
+      <p class="italic font-amiri">قصيدة البردة</p>
     </div>
 
     <ButtonFasalComponent v-for="(item, idx) in getBurdahData" :key="idx" :data="item" />
 
-    <button
-      v-if="isLimitPage"
-      @click="getNextPage"
-      class="w-full bg-gradient-to-r from-amber-400 via-amber-200 to-amber-400 p-3 mb-5 rounded flex items-center justify-center shadow-xl lg:text-xl text-sm"
-      v-html="formatLabelNextBtn"
-    >
+    <div class="lg:w-10/12 w-11/12 mx-auto">
+      <button
+          v-if="isLimitPage"
+          @click="getNextPage"
+          class="w-full bg-gradient-to-r from-amber-400 via-amber-200 to-amber-400 p-3 mb-5 rounded flex items-center justify-center shadow-xl lg:text-xl text-sm"
+          v-html="formatLabelNextBtn"
+      >
 
-    </button>
-
-    <div class="flex bg-amber-50 rounded flex justify-between lg:text-xl text-sm">
-      <button v-if="true" @click="getPreviousPage" class="px-5 py-3 rounded hover:underline">
-        {{ `Sebelumnya` }}
       </button>
 
-      <div class="flex justify-between overflow-auto">
-        <p
-          v-for="idx in countBurdahData"
-          class="px-5 py-3 w-full cursor-pointer hover:underline rounded"
-          :class="(parseInt(idx)) == parseInt(currentPage + 1) ? 'bg-amber-400' : ''"
-          :key="idx"
-          @click="currentPage = idx - 1"
-        >
-          {{ idx }}
-        </p>
+      <div class="flex bg-amber-50 rounded flex justify-between lg:text-xl text-sm">
+        <button v-if="true" @click="getPreviousPage" class="px-5 py-3 rounded hover:underline">
+          {{ `Sebelumnya` }}
+        </button>
+
+        <div class="flex justify-between overflow-auto">
+          <p
+              v-for="idx in countBurdahData"
+              class="px-5 py-3 w-full cursor-pointer hover:underline rounded"
+              :class="(parseInt(idx)) == parseInt(currentPage + 1) ? 'bg-amber-400' : ''"
+              :key="idx"
+              @click="setCurrentPage(idx)"
+          >
+            {{ idx }}
+          </p>
+        </div>
       </div>
     </div>
   </div>
@@ -72,9 +74,15 @@ export default {
   methods: {
     getNextPage() {
       if (this.currentPage < (Burdah.length - 1)) this.currentPage += 1
+      window.scrollTo(0, 0)
     },
     getPreviousPage() {
       if (this.isEndPage) this.currentPage -= 1
+      window.scrollTo(0, 0)
+    },
+    setCurrentPage(idx) {
+      this.currentPage = idx - 1
+      window.scrollTo(0, 0)
     }
   },
 }
