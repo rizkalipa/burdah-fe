@@ -35,7 +35,7 @@
         <p class="lg:text-lg text-sm italic" v-html="item[1].id"></p>
       </div>
 
-      <div class="absolute bottom-3 z-10">
+      <div class="absolute lg:-bottom-1 bottom-3 z-10">
         <img src="@/assets/img/art-arabic-2.png" class="w-1/12 mx-auto">
       </div>
     </div>

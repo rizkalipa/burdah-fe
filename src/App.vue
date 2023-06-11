@@ -4,7 +4,7 @@
 
     <MainContent />
 
-    <img src="./assets/img/bg-arabic-1.png" class="absolute -bottom-32 w-full -z-10 lg:w-8/12">
+    <img src="./assets/img/bg-arabic-1.png" class="absolute lg:-bottom-32 -bottom-16 w-full -z-10 lg:w-8/12">
   </div>
 </template>
 
