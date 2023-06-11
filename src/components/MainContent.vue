@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:w-6/12 md:w-8/12 w-full mx-auto my-16 text-amber-950 text-3xl leading-relaxed tracking-wider">
+  <div class="lg:w-6/12 md:w-8/12 w-full mx-auto my-16 text-amber-950 text-3xl tracking-wider" style="line-height: 4rem">
     <div class="rounded mb-5 p-8 text-center">
       <h4 class="text-4xl">Qasidah Burdah Al Madih</h4>
       <p class="italic font-amiri">قصيدة البردة</p>
