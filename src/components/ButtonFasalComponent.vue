@@ -19,7 +19,7 @@
         v-for="(item, idx) in data.text"
         :key="idx"
         :class="idx % 2 ? 'bg-amber-100' : 'bg-amber-50'"
-        class="lg:px-8 px-5 py-8 rounded border-b-2 border-solid border-amber-500"
+        class="lg:px-8 px-5 py-8 rounded border-b-2 border-solid border-amber-500 relative"
     >
       <div class="text-right mb-5">
         <p class="relative font-amiri" v-html="item[0].ar"></p>
@@ -33,6 +33,10 @@
       </div>
       <div class="text-center">
         <p class="lg:text-lg text-sm italic" v-html="item[1].id"></p>
+      </div>
+
+      <div class="absolute bottom-3 z-10">
+        <img src="@/assets/img/art-arabic-2.png" class="w-1/12 mx-auto">
       </div>
     </div>
     <div v-if="!data.text.length" class="px-8 py-8 bg-amber-50 rounded border-b-2 border-solid border-amber-500">
