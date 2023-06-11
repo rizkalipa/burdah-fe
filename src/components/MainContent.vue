@@ -3,6 +3,15 @@
     <div class="rounded mb-5 p-8 text-center">
       <h4 class="text-4xl">Qasidah Burdah Al Madih</h4>
       <p class="italic font-amiri">قصيدة البردة</p>
+
+      <div class="relative mt-8 flex justify-center items-center">
+        <img src="@/assets/img/art-arabic-1.png" style="width: 100px" class="mx-auto absolute">
+        <p class="font-amiri italic">{{ currentPage + 1 }}</p>
+      </div>
+
+<!--      <div class="relative p-8" :style="{ backgroundImage: `url('${require('@/assets/img/art-arabic-1.png')}')` }">-->
+<!--        <p>1</p>-->
+<!--      </div>-->
     </div>
 
     <ButtonFasalComponent v-for="(item, idx) in getBurdahData" :key="idx" :data="item" />

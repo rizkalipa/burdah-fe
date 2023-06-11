@@ -1,5 +1,7 @@
 import Fasal2 from "@/enums/Fasal2";
 import Fasal3 from "@/enums/Fasal3";
+import Fasal4 from "@/enums/Fasal4";
+import Fasal5 from "@/enums/Fasal5";
 
 export default [
   {
@@ -132,20 +134,8 @@ export default [
   },
   { ...Fasal2 },
   { ...Fasal3 },
-  {
-    title: {
-      id: 'Fasal 4 : <span class="font-semibold italic">" Kelahiran Nabi Muhammad SAW "</span>',
-      ar: 'الفصل الرابع : في مولده عليه الصلاة والسلام'
-    },
-    text: []
-  },
-  {
-    title: {
-      id: 'Fasal 5 : <span class="font-semibold italic">" Mukjizat Nabi Muhammad SAW "</span>',
-      ar: 'الفصل الخامس : في معجزاته صلى الله عليه وسلم'
-    },
-    text: []
-  },
+  { ...Fasal4 },
+  { ...Fasal5 },
   {
     title: {
       id: 'Fasal 6 : <span class="font-semibold italic">" Kemuliaan Al-Quran dan Pujian Kepadanya "</span>',
