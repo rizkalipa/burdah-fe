@@ -1,17 +1,18 @@
 <template>
   <div class="lg:w-6/12 md:w-8/12 w-full mx-auto my-16 text-amber-950 text-3xl tracking-wider" style="line-height: 4rem">
-    <div class="rounded mb-5 p-8 text-center">
+    <div class="rounded mb-5 p-8 text-center relative">
       <h4 class="text-4xl">Qasidah Burdah Al Madih</h4>
       <p class="italic font-amiri">قصيدة البردة</p>
 
       <div class="relative mt-8 flex justify-center items-center">
         <img src="@/assets/img/art-arabic-1.png" style="width: 100px" class="mx-auto absolute">
         <p class="font-amiri italic">{{ currentPage + 1 }}</p>
-      </div>
 
-<!--      <div class="relative p-8" :style="{ backgroundImage: `url('${require('@/assets/img/art-arabic-1.png')}')` }">-->
-<!--        <p>1</p>-->
-<!--      </div>-->
+        <div class="absolute flex items-center justify-between top-0 bottom-0 w-full">
+          <button :class="!isEndPage ? 'text-gray-200' : 'text-amber-950'" @click="getPreviousPage"><span><i class="fas fa-circle-arrow-left"></i></span></button>
+          <button :class="!isLimitPage ? 'text-gray-200' : 'text-amber-950'" @click="getNextPage"><span><i class="fas fa-circle-arrow-right"></i></span></button>
+        </div>
+      </div>
     </div>
 
     <ButtonFasalComponent v-for="(item, idx) in getBurdahData" :key="idx" :data="item" />
