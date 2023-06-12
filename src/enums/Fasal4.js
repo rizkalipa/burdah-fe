@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 4 : <span class="font-semibold italic">" Kelahiran Nabi Muhammad SAW "</span>',
+    id: 'Fasal 4 : <span class="font-semibold italic">" Kelahiran Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل الرابع : في مولده عليه الصلاة والسلام'
   },
   text: [
@@ -126,7 +126,7 @@ export default {
     ],
     [
       {
-        id: 'Batu yang dalam genggaman kedua telapak tangan Rasulullah SAW lemparkan.',
+        id: 'Batu yang dalam genggaman kedua telapak tangan Rasulullah ﷺ lemparkan.',
         ar: 'نَبْذًا بِهِ بَعْدَ تَسْبِيحٍ بِبَطْنِهِمَا <small class="end-ayah">۝</small>'
       },
       {

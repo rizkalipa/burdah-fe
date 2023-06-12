@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 8 : <span class="font-semibold italic">" Perjuangan Nabi Muhammad SAW "</span>',
+    id: 'Fasal 8 : <span class="font-semibold italic">" Perjuangan Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل الثامن: في جهاد النبي صلى الله عليه وسلم'
   },
   text: [
@@ -66,7 +66,7 @@ export default {
     ],
     [
       {
-        id: 'Setiap orang yang penuhi panggilan Allah dan mengharap pahala di sisi Allah SWT.',
+        id: 'Setiap orang yang penuhi panggilan Allah dan mengharap pahala di sisi Allah ﷻ.',
         ar: 'مِنْ كُلِّ مُنْتَدِبٍ لِلّٰهِ مُحْتَسِبٍ <small class="end-ayah">۝</small>'
       },
       {
@@ -176,7 +176,7 @@ export default {
     ],
     [
       {
-        id: 'Barangsiapa meraih kemenangan sebab Rasulullah SAW.',
+        id: 'Barangsiapa meraih kemenangan sebab Rasulullah ﷺ.',
         ar: 'وَمَنْ تَكُنْ بِرَسُولِ اللهِ نَصْرَتُهُ <small class="end-ayah">۝</small>'
       },
       {
@@ -186,7 +186,7 @@ export default {
     ],
     [
       {
-        id: 'Tidaklah engkau melihat kekasih Allah kecuali ia akan mendapat pertolongan berkat Rasulullah SAW.',
+        id: 'Tidaklah engkau melihat kekasih Allah kecuali ia akan mendapat pertolongan berkat Rasulullah ﷺ.',
         ar: 'وَلَنْ تَرٰى مِنْ وَّلِيٍّ غَيْرِ مُنْتَصِرٍ <small class="end-ayah">۝</small>'
       },
       {
@@ -216,7 +216,7 @@ export default {
     ],
     [
       {
-        id: 'Cukuplah sebagai bukti yang jelas atas kehebatan Baginda Rasul SAW, apabila dadanya penuh dengan ilmu walaupun ia adalah seorang yang ummi.',
+        id: 'Cukuplah sebagai bukti yang jelas atas kehebatan Baginda Rasul ﷺ, apabila dadanya penuh dengan ilmu walaupun ia adalah seorang yang ummi.',
         ar: 'كَفَاكَ بِالْعِلْمِ فِي اْلأُمِّيِّ مُعْجِزَةً <small class="end-ayah">۝</small>'
       },
       {

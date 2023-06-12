@@ -120,7 +120,7 @@ export default {
         ar: 'قَرَّتْ بِهَا عَيْنُ قَارِيْهَا فَقُلْتُ لَهُ <small class="end-ayah">۝</small>'
       },
       {
-        id: 'Sungguh anda telah beroleh bahagia berpeganglah selalu pada tali Allah SWT.',
+        id: 'Sungguh anda telah beroleh bahagia berpeganglah selalu pada tali Allah ﷻ.',
         ar: 'لَقَدْ ظَفِرْتَ بِحَبْلِ الِلّٰهِ فَاعْتَصِمِِِِ <small class="end-ayah">۝</small>'
       }
     ],

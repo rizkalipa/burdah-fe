@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 3 : <span class="font-semibold italic">" Pujian kepada Nabi Muhammad SAW "</span>',
+    id: 'Fasal 3 : <span class="font-semibold italic">" Pujian kepada Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل الثالث : في مدح سيد المرسلين صلى الله عليه وسلم'
   },
   text: [
@@ -56,7 +56,7 @@ export default {
     ],
     [
       {
-        id: 'Dialah Nabi Muhammad SAW, sang penghulu seorang pemimpin baik di dunia dan akhirat.',
+        id: 'Dialah Nabi Muhammad ﷺ, sang penghulu seorang pemimpin baik di dunia dan akhirat.',
         ar: 'مُحَمَّدٌ سَيّدُ الْكَوْنَيْنِ وَالثَّقَلَيْـــــــنِ <small class="end-ayah">۝</small>'
       },
       {
@@ -66,7 +66,7 @@ export default {
     ],
     [
       {
-        id: 'Nabi kita Rasulullah Saw, sang penganjur kebaikan dan pencegah kemunkaran Tak seorangpun lebih baik perkataanya daripada Rasulullah SAW.',
+        id: 'Nabi kita Rasulullah Saw, sang penganjur kebaikan dan pencegah kemunkaran Tak seorangpun lebih baik perkataanya daripada Rasulullah ﷺ.',
         ar: 'نَبِيّنَا اْلآمِرُ النّاهِي فَلَا أَحَدٌ <small class="end-ayah">۝</small>'
       },
       {
@@ -86,7 +86,7 @@ export default {
     ],
     [
       {
-        id: 'Beliau mengajak menuju keridhaan Allah SWT.',
+        id: 'Beliau mengajak menuju keridhaan Allah ﷻ.',
         ar: 'دَعَا إِليَ اللهِ فَالْمُسْتَمْسِكُونَ بِهِ <small class="end-ayah">۝</small>'
       },
       {
@@ -106,7 +106,7 @@ export default {
     ],
     [
       {
-        id: 'Mereka semua mendapatkan dari Rasulullah SAW.',
+        id: 'Mereka semua mendapatkan dari Rasulullah ﷺ.',
         ar: 'وَكُلُّـــــهُمْ مِنْ رَسُولِ اللهِ مُلْتَمِسٌ <small class="end-ayah">۝</small>'
       },
       {
@@ -130,7 +130,7 @@ export default {
         ar: 'فَهْوَ الذِّيْ تَمَّ مَعْنَاهُ وَصُـــــــوْرَتُهُ <small class="end-ayah">۝</small>'
       },
       {
-        id: 'Kemudian Rasulullah SAW terpilih sebagai kekasih Allah SWWT, sang pencipta manusia.',
+        id: 'Kemudian Rasulullah ﷺ terpilih sebagai kekasih Allah SWWT, sang pencipta manusia.',
         ar: 'ثُمّ اصْطَفَاهُ حَبِيـْـــــــــــــبًا بَــارِئُ النَّسَمِ <small class="end-ayah">۝</small>'
       }
     ],
@@ -196,7 +196,7 @@ export default {
     ],
     [
       {
-        id: 'Seluruh makhluk rapuh, tiada mampu memahami rahasia hakikat kenabian Nabi Muhammad SAW.',
+        id: 'Seluruh makhluk rapuh, tiada mampu memahami rahasia hakikat kenabian Nabi Muhammad ﷺ.',
         ar: 'أَعْيَا الوَرٰى فَهْمَ مَعْنَاهُ فَلَيْسَ يُرٰى <small class="end-ayah">۝</small>'
       },
       {
@@ -206,7 +206,7 @@ export default {
     ],
     [
       {
-        id: 'Nabi Muhammad SAW bagaikan matahari, tampak kecil bagi kedua mata yang melihat dari jarak jauh.',
+        id: 'Nabi Muhammad ﷺ bagaikan matahari, tampak kecil bagi kedua mata yang melihat dari jarak jauh.',
         ar: 'كَالشّمْسِ تَظْهَرُ لِلْعَيْنَيْنِ مِنْ بُعُدٍ <small class="end-ayah">۝</small>'
       },
       {
@@ -226,11 +226,11 @@ export default {
     ],
     [
       {
-        id: 'Puncak pengetahuan tentang Rasulullah SAW, bahwa sesungguhanya beliau adalah manusia.',
+        id: 'Puncak pengetahuan tentang Rasulullah ﷺ, bahwa sesungguhanya beliau adalah manusia.',
         ar: 'فَمَبْلَغُ الْعِلْمِ فِيْـــــــــــهِ أَنّهُ بَشَرٌُ <small class="end-ayah">۝</small>'
       },
       {
-        id: 'Dan sesungguhnya beliau sebaik-baik semua makhluk Allah SWT.',
+        id: 'Dan sesungguhnya beliau sebaik-baik semua makhluk Allah ﷻ.',
         ar: 'وَأَنّهُ خَيْـــــــــــرُ خَلْقِ اللَّهِ كُلِّهِمِِِ <small class="end-ayah">۝</small>'
       }
     ],
@@ -240,7 +240,7 @@ export default {
         ar: 'وَكُلُّ أٰيٍ أَتَى الرُّسْلُ الْكِرَامُ بِهَا <small class="end-ayah">۝</small>'
       },
       {
-        id: 'Tidak lain semua itu terhubung dengan Nur-nya Rasulullah SAW,',
+        id: 'Tidak lain semua itu terhubung dengan Nur-nya Rasulullah ﷺ,',
         ar: 'فَإِنّمَا اتَّصَلَتْ مِنْ نُـــــــــوِرِهِ بِهِمِِِِ <small class="end-ayah">۝</small>'
       }
     ],
@@ -290,7 +290,7 @@ export default {
         ar: 'كَأَنّمَا اللُّؤْلُؤُ الَكْنُـــــوْنُ فِيْ صَدَفٍ <small class="end-ayah">۝</small>'
       },
       {
-        id: 'Dari ucapan dan senyumnya Nabi Muhammad SAW.',
+        id: 'Dari ucapan dan senyumnya Nabi Muhammad ﷺ.',
         ar: 'مِنْ مَّعْدِنَيْ مَنْطِقٍ مِنْهُ وَمُبْتَسَمِ <small class="end-ayah">۝</small>'
       }
     ],

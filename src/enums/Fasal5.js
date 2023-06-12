@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 5 : <span class="font-semibold italic">" Mukjizat Nabi Muhammad SAW "</span>',
+    id: 'Fasal 5 : <span class="font-semibold italic">" Mukjizat Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل الخامس : في معجزاته صلى الله عليه وسلم'
   },
   text: [
@@ -46,7 +46,7 @@ export default {
     ],
     [
       {
-        id: 'Di dalam gua tsur, Nabi Muhammad SAW masuk bersama Abu Bakar.',
+        id: 'Di dalam gua tsur, Nabi Muhammad ﷺ masuk bersama Abu Bakar.',
         ar: 'وَمَا حَوَى الْغَــــارُ مِنْ خَيْرٍ وَّمِنْ كَرَمِ <small class="end-ayah">۝</small>'
       },
       {
@@ -76,11 +76,11 @@ export default {
     ],
     [
       {
-        id: 'Hal itu sebagai bentuk perlindungan dari Allah SWT.',
+        id: 'Hal itu sebagai bentuk perlindungan dari Allah ﷻ.',
         ar: 'وِقَايَةُ الله أَغْنَتْ عَنْ مُضَـــــاعَفَةٍ <small class="end-ayah">۝</small>'
       },
       {
-        id: 'Sehingga Rasulullah SAW tidak lagi membutuhkan baju berlapis besi dan benteng-benteng nan tinggi.',
+        id: 'Sehingga Rasulullah ﷺ tidak lagi membutuhkan baju berlapis besi dan benteng-benteng nan tinggi.',
         ar: 'مِنَ الدُّرُوْعِ وَعَنْ عَالٍ مِنَ الْأُطُمِِِ <small class="end-ayah">۝</small>'
       }
     ],
@@ -96,7 +96,7 @@ export default {
     ],
     [
       {
-        id: 'Tidak dapat kau ingkari wahyu di dalam mimpinya Rasulullah SAW.',
+        id: 'Tidak dapat kau ingkari wahyu di dalam mimpinya Rasulullah ﷺ.',
         ar: 'وَلَا تُنْكِرِ الْوَحْيَ مِنْ رُؤيَاهُ إنَّ لَهُ <small class="end-ayah">۝</small>'
       },
       {
@@ -110,7 +110,7 @@ export default {
         ar: 'وَذَاكَ حِيْنَ بُلُـــــــــــــوغٍ مِن نُبُـوّتِهِ <small class="end-ayah">۝</small>'
       },
       {
-        id: 'Maka sejak saat itu, mimpi sang Nabi tidak boleh diingkari oleh siapapun dari umat Nabi Muhammad SAW.',
+        id: 'Maka sejak saat itu, mimpi sang Nabi tidak boleh diingkari oleh siapapun dari umat Nabi Muhammad ﷺ.',
         ar: 'فَلَيْسَ يُنكَرُ فِيْــــهِ حَالُ مُحْتَلَمِِِِِِ <small class="end-ayah">۝</small>'
       }
     ],

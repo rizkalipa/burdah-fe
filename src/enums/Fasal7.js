@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 7 : <span class="font-semibold italic">" Isra’ Mi’raj Nabi Muhammad SAW "</span>',
+    id: 'Fasal 7 : <span class="font-semibold italic">" Isra’ Mi’raj Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل السابع : في إسرائه ومعراجه صلى الله عليه وسلم'
   },
   text: [
@@ -120,13 +120,13 @@ export default {
         ar: 'بُشْرٰى لَنَا مَعْشَرَ الْإِسْلَامٍ إِنّ لَنَا <small class="end-ayah">۝</small>'
       },
       {
-        id: 'Karena kita punya tiang kokoh yang takkan roboh (Islam) atas pertolongan Allah SWT.',
+        id: 'Karena kita punya tiang kokoh yang takkan roboh (Islam) atas pertolongan Allah ﷻ.',
         ar: 'مِنَ العِنَايِةِ رُكْنًا غَيْرَ مُنْهَدِمِِِِِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
-        id: 'Tatkala Allah panggil Nabi pengajak kita karena ketaatannya kepada Allah SWT.',
+        id: 'Tatkala Allah panggil Nabi pengajak kita karena ketaatannya kepada Allah ﷻ.',
         ar: 'لَمَّا دَعَا اللهُ دَاعِينَا لِطَاعَتِهِ <small class="end-ayah">۝</small>'
       },
       {
