@@ -27,9 +27,9 @@
       </div>
     </div>
 
-    <div class="mb-5">
+    <div class="mb-5 lg:px-8 px-5 pb-8">
       <p class="text-lg font-amiri mb-5" v-html="getMuqaddimah.text.ar"></p>
-      <p class="text-base" v-html="getMuqaddimah.text.id"></p>
+      <p class="text-sm" v-html="getMuqaddimah.text.id"></p>
     </div>
 
     <DisplayTextComponent v-for="(item, idx) in getBurdahData" :key="idx" :data="item" />
