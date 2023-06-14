@@ -27,6 +27,11 @@
       </div>
     </div>
 
+    <div class="mb-5">
+      <p class="text-lg font-amiri mb-5" v-html="getMuqaddimah.text.ar"></p>
+      <p class="text-base" v-html="getMuqaddimah.text.id"></p>
+    </div>
+
     <DisplayTextComponent v-for="(item, idx) in getBurdahData" :key="idx" :data="item" />
 
     <div class="lg:w-10/12 w-11/12 mx-auto">
@@ -63,6 +68,7 @@
 <script>
 import DisplayTextComponent from "@/components/DisplayTextComponent.vue";
 import Burdah from "@/enums/Burdah";
+import Muqaddimah from "@/enums/Muqaddimah";
 
 export default {
   name: "BurdahScreenComponent",
@@ -91,6 +97,9 @@ export default {
     formatLabelNextBtn() {
       return `
         ${this.getNextTitle.id} <span class="ml-5 flex items-center"><i class="fas fa-long-arrow-right"></i></span>`
+    },
+    getMuqaddimah() {
+      return Muqaddimah
     }
   },
   methods: {

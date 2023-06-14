@@ -7,7 +7,7 @@ export default {
         [
             {
                 id: 'Yaa siin (Hanya Allah ﷻ yang mengetahui maknanya).',
-                ar: 'يس يس يس يس يس يس يس'
+                ar: 'يسٓ , يسٓ , يسٓ , يسٓ , يسٓ , يسٓ , يسٓ '
             }
         ],
         [

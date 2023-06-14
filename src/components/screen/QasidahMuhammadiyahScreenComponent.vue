@@ -13,7 +13,7 @@
     </div>
     <div class="rounded mb-5 p-8 text-center relative">
       <h4 class="text-4xl">Qasidah Muhammadiyah</h4>
-      <p class="italic font-amiri">قصيدة</p>
+      <p class="italic font-amiri">قصيدة محمّديّه</p>
 
       <div class="relative mt-8 flex justify-center items-center">
         <img src="@/assets/img/art-arabic-1.png" style="width: 100px" class="mx-auto absolute">
