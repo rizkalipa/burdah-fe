@@ -7,17 +7,17 @@ export default {
     [
       {
         id: 'Biarkan aku mengurai mukjizat yang tampak pada nabi.',
-        ar: 'دَعْنِ وَوَصْفِـيَ أٰيَاتٍ لَهُ ظَهَرَتْ <small class="end-ayah">۝</small>'
+        ar: 'دَعْنِى وَوَصْفِـيَ أٰيَاتٍ لَهُ ظَهَرَتْ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Tampak bagai api jamuan malam hari di atas gunung menjulang tinggi.',
-        ar: 'ظُهُورَ نَارِ الْقُرٰى لَيْلً عَلَى عَلَمِِِ <small class="end-ayah">۝</small>'
+        ar: 'ظُهُوْرَ نَارِ الْقِرٰى لَيْلًا عَلَى عَلَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Mutiara bertambah indah anggun bila ia rapi tersusun.',
-        ar: 'فَالدُّرُّ يَزْدَادُ حُسْنًا وَّهُوَ مُنْتَظِمٌ <small class="end-ayah">۝</small>'
+        ar: 'فَالدُّرُّ يَزْدَادُ حُسْنًا وَهْوَ مُنْتَظِمٌ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Nilainya tak berkurang sedikitpun walau tak tersusun.',
@@ -27,27 +27,27 @@ export default {
     [
       {
         id: 'Maka harapan para pengagum sang Rasul tak kan bisa menjangkau terhadap apa yang ada pada diri sang Rasul.',
-        ar: 'فَمَا تُطَاوِلَ أٰمَالِ الْمَديـــــحِ إِلىٰ <small class="end-ayah">۝</small>'
+        ar: 'فَمَا تَطَاوُلَ آمَالِ الْمَدِيْـــــحِ إِلىٰ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Yakni budi pekerti yang sudah menjadi watak dan kepribadian beliau.',
-        ar: 'مَا فِيهِ مِنْ كَرَمِ الْأَخْلَاقِ وَالشِّيَمِِ <small class="end-ayah">۝</small>'
+        ar: 'مَا فِيْهِ مِنْ كَرَمِ الْأَخْلَاقِ وَالشِّيَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Ayat-ayat Al-Qur’an adalah dari Tuhan yang Maha Pengasih Baru turunnya.',
-        ar: 'أٰيَــاتُ حَقٍّ مِنَ الرّحْمٰنُ مُحْدَثَةٌ <small class="end-ayah">۝</small>'
+        ar: 'آيَــاتُ حَقٍّ مِنَ الرَّحْمٰنِ مُحْدَثَةٌ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Terdahulu maknanya dan merupakan sifat dari Dzat yang Maha Dahulu ‘Qadim’.',
-        ar: 'قَدِيْةٌ صِفَةُ الْمَوْصُوْفِ بِالقِدَمِِِ <small class="end-ayah">۝</small>'
+        ar: 'قَدِيْمَةٌ صِفَةُ الْمَوْصُوْفِ بِالْقِدَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Ayat-ayat Al-Qur’an tak bersamaan dengan zaman Dan ayat-ayat Al-Qur’an telah kabarkan pada kita.',
-        ar: 'لَمْ تَقْتَــــــــرِنْ بِزَمِانٍ وَّهْيَ تُخْبِرُنَا <small class="end-ayah">۝</small>'
+        ar: 'لَمْ تَقْتَــــــــرِنْ بِزَمَانٍ وَهْيَ تُخْبِرُنَا <small class="end-ayah">۝</small>'
       },
       {
         id: 'Tentang akhirat, Kaum `Ãd dan Kota Iram.',
@@ -57,7 +57,7 @@ export default {
     [
       {
         id: 'Ayat-ayat ilahi di sisi kita mengungguli mukjizat para Nabi.',
-        ar: 'دَامَتْ لَدَيْنَا فَفَاقَتْ كُلَّ مُعْجِزَةً <small class="end-ayah">۝</small>'
+        ar: 'دَامَتْ لَدَيْنَا فَفَاقَتْ كُلَّ مُعْجِزَةٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Karena mukjizat mereka tidak abadi.',
@@ -67,21 +67,21 @@ export default {
     [
       {
         id: 'Sungguh kokoh itu Al-Qur’an tak tinggalkan keserupaan.',
-        ar: 'مُحَكَّمَـــاتٌ فَمَا يُبْقِيَنَ مِنْ شُبَهٍ <small class="end-ayah">۝</small>'
+        ar: 'مُحَكَّمَـــاتٌ فَمَا تُبْقِيْنَ مِنْ شُبَهٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Bagi yang punya perselisihan dan tak usah cari hakim kebenaran.',
-        ar: 'لِذِيْ شِقَاقٍ وَلاَ يَبْغِيْنَ مِنْ حَكَمِِ <small class="end-ayah">۝</small>'
+        ar: 'لِذِيْ شِقَاقٍ وَلاَ تَبْغِيْنَ مِنْ حَكَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Sama sekali Al-Qur’an takkan pernah ditentang kecuali akan kembali dari medan perang.',
-        ar: 'مَا حُوْرِبَتْ قَطُّ إِلّا عَادَ مِنْ حَرَبٍ <small class="end-ayah">۝</small>'
+        ar: 'مَا حُوْرِبَتْ قَطُّ إِلَّا عَادَ مِنْ حَرَبٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Musuh yang sangat hebat dalam keadaan pasrah/menyerah.',
-        ar: 'أَعْدَى الْأَعَادِيْ إِلَيْهَا مُلْقِيَ السَّلَمِِِ <small class="end-ayah">۝</small>'
+        ar: 'أَعْدَى الْأَعَادِيْ إِلَيْهَا مُلْقِيَ السَّلَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -91,7 +91,7 @@ export default {
       },
       {
         id: 'Dari tangan pendosa yang akan menjamahnya.',
-        ar: 'رَدَّ الْغُيْورِ يَدَ الْجَانِ عَنِ الْحَرَمِ <small class="end-ayah">۝</small>'
+        ar: 'رَدَّ الْغَيُوْرِ يَدَ الْجَانِ عَنِ الْحُرَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -101,17 +101,17 @@ export default {
       },
       {
         id: 'Keindahan dan nilainya melebihi mutiara samudera.',
-        ar: 'وَفَوْقَ جَوْهَرِهِ فِيْ الْحُسْنِ وَالْقِيَمِِ <small class="end-ayah">۝</small>'
+        ar: 'وَفَوْقَ جَوْهَرِهِ فِيْ الْحُسْنِ وَالْقِيَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Keajaiban ayat ayat Al-Qur’an tak bisa dibatasi dengan hitungan.',
-        ar: 'فَمَا تُعَدُّ وَلَا تُحْصٰى عَجَائِبُهَا <small class="end-ayah">۝</small>'
+        ar: 'فَلَا تُعَدُّ وَلَا تُحْصٰى عَجَائِبُهَا <small class="end-ayah">۝</small>'
       },
       {
         id: 'Maknanya nan banyak bertebaran sama sekali tak kan pernah membosankan.',
-        ar: 'وَلَا تُسَامُ عَلىَ الْإِكْثَارِ باِلسَّـــــــأَمِِِ <small class="end-ayah">۝</small>'
+        ar: 'وَلَا تُسَامُ عَلىَ الْإِكْثَارِ باِلسَّـــــــأَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -121,27 +121,27 @@ export default {
       },
       {
         id: 'Sungguh anda telah beroleh bahagia berpeganglah selalu pada tali Allah ﷻ.',
-        ar: 'لَقَدْ ظَفِرْتَ بِحَبْلِ الِلّٰهِ فَاعْتَصِمِِِِ <small class="end-ayah">۝</small>'
+        ar: 'لَقَدْ ظَفِرْتَ بِحَبْلِ الِلّٰهِ فَاعْتَصِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Kau baca ayat-ayat Al-Qur’an karena takut akan panasnya neraka Ladhza (Jahannam).',
-        ar: 'إِنْ تَتْلُهَا خِيْفَ مِنْ حَرِّ نَارِ لَظىٰ <small class="end-ayah">۝</small>'
+        ar: 'إِنْ تَتْلُهَا خِيْفَةً مِنْ حَرِّ نَارِ لَظىٰ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Maka kau dapat memadamkan panasnya neraka karena saking sejuknya airnya.',
-        ar: 'أَطْفَأْتَ حَرِّ لَظىٰ مِنْ وِّرْدِهَا الشِّبيَمِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'أَطْفَأْتَ حَرَّ لَظىٰ مِنْ وِرْدِهَا الشَّبِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Al-Qur’an laksana telaga yang mampu memutihkan wajah-wajah para pendosa yang datang.',
-        ar: 'كَأَنَّهَا الحَوْضُ تَبْيَضُّ الْوُجُوهُ بِهِ <small class="end-ayah">۝</small>'
+        ar: 'كَأَنَّهَا الْحَوْضُ تَبْيَضُّ الْوُجُوهُ بِهِ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Dengan wajah hitam bagaikan arang.',
-        ar: 'مِنَ العُصَاةِ وَقَدْ جَآءُوهُ كَالْحُمَمِِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'مِنَ العُصَاةِ وَقَدْ جَآءُوْهُ كَالْحُمَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -157,21 +157,21 @@ export default {
     [
       {
         id: 'Jangan heran pada pendengki yang berusaha mengingkari ayat-ayat Al-Qur’an.',
-        ar: 'لَا تَعْجَبَنْ لِحَسُوْدٍ رَّاحَ يُنْكِرُهَا <small class="end-ayah">۝</small>'
+        ar: 'لَا تَعْجَبَنْ لِحَسُوْدٍ رَاحَ يُنْكِرُهَا <small class="end-ayah">۝</small>'
       },
       {
         id: 'Pura-pura bodoh padahal ia begitu cerdas memahami ayat-ayat Al-Qur’an tersebut.',
-        ar: 'تَجَاهُلً وَّهُوَ عَيْنُ الْحَاذِقِ الْفَهِمِ <small class="end-ayah">۝</small>'
+        ar: 'تَجَاهُلاً وَهْوَ عَيْنُ الْحَاذِقِ الْفَهِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Terkadang mata mengingkari pada terangnya sinar matahari karena sakit mata.',
-        ar: 'قَدْ تُنْكِرُ الْعَيْنُ ضَوْءَ الشَّمْسِ مِنْ رَّمَدٍ <small class="end-ayah">۝</small>'
+        ar: 'قَدْ تُنْكِرُ الْعَيْنُ ضَوْءَ الشَّمْسِ مِنْ رَمَدٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Segarnya air tekadang mulut pungkiri karena sakit yang menyelimuti.',
-        ar: 'وَيُنْكِرُ الْفَمُ طَعْمَ الْمَآءِ مِنْ سَقَمِِ <small class="end-ayah">۝</small>'
+        ar: 'وَيُنْكِرُ الْفَمُ طَعْمَ الْمَآءِ مِنْ سَقَمِ <small class="end-ayah">۝</small>'
       }
     ]
   ]

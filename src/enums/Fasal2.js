@@ -7,11 +7,11 @@ export default {
     [
       {
         id: 'Sungguh hawa nafsuku tetap bebal tak tersadarkan.',
-        ar: 'فَإِنّ أَمّارَتِ بِالسّـوءِ مَا اتّعَظَتْ <small class="end-ayah">۝</small>'
+        ar: 'فَإِنَّ أَمَّارَتِى بِالسُّـوءِ مَا اتَّعَظَتْ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Sebab tak mau tahu peringatan uban dan kerentaan.',
-        ar: 'مِنْ جَهْلِهَا بِنَذِيرِ الشّيْبِ وَالَهَرَم <small class="end-ayah">۝</small>'
+        ar: 'مِنْ جَهْلِهَا بِنَذِيرِ الشَّيْبِ وَالْهَرَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -51,13 +51,13 @@ export default {
       },
       {
         id: 'Sebab makanan justru memperkuat nafsu si rakus pelahap.',
-        ar: 'إِنّ الطَّعَامَ يُقَوِّيْ شَهْوَةَ النَّهِمِِ <small class="end-ayah">۝</small>'
+        ar: 'إِنَّ الطَّعَامَ يُقَوِّيْ شَهْوَةَ النَّهِمِِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Nafsu bagai bayi, bila kau biarkan ia akan tetap menyusu.',
-        ar: 'وَالنّفْسُ كَالطّفِلِ إِنْ تُهْمِلْهُ شَبَّ عَلَى <small class="end-ayah">۝</small>'
+        ar: 'وَالنَّفْسُ كَالطّفِلِ إِنْ تُهْمِلْهُ شَبَّ عَلَى <small class="end-ayah">۝</small>'
       },
       {
         id: 'Namun apabila engkau sapih, maka ia akan tinggalkan kebiasaan menyusu itu.',
@@ -71,7 +71,7 @@ export default {
       },
       {
         id: 'Karena jika ia berkuasa ia akan membunuhmu atau paling tidak ia akan mencercamu.',
-        ar: 'إِنّ الْهَوَى مَا تَوَلَّى يُصِمْ أَوْ يَصِمِِِِ <small class="end-ayah">۝</small>'
+        ar: 'إِنَّ الْهَوَى مَا تَوَلَّى يُصْمِ أَوْ يَصِمِِِِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -87,21 +87,21 @@ export default {
     [
       {
         id: 'Kerap ia goda manusia dengan kelezatan yang mematikan.',
-        ar: 'كَمْ حَسّنَتْ لَذّةً لِلْمَـــــــرْءِ قَاتِلَةً <small class="end-ayah">۝</small>'
+        ar: 'كَمْ حَسَّنَتْ لَذَّةً لِلْمَـــــــرْءِ قَاتِلَةً <small class="end-ayah">۝</small>'
       },
       {
         id: 'Tanpa ia sadar akan racun yang terdapat dalam lezatnya makanan.',
-        ar: 'مِنْ حَيْثُ لَمْ يَدْرِ أَنّ السَّمَّ فِي الدَّسَمِِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'مِنْ حَيْثُ لَمْ يَدْرِ أَنَّ السُّمَّ فِي الدَّسَمِِِِِِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Takutlah akan malapetaka yang tersembunyi karena lapar dan kenyang.',
-        ar: 'وَاخْشَ الدَّسَائِسَ مِنْ جُوعٍ وَّمِنْ شَبَعِ <small class="end-ayah">۝</small>'
+        ar: 'وَاخْشَ الدَّسَائِسَ مِنْ جُوعٍ وَّمِنْ شِبَعٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Terkadang kelaparan lebih berbahaya dari pada kekenyangan.',
-        ar: 'فَرُبّ مَخْمَصَةٍ شَرُّ مِنَ التُّخَمِِِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'فَرُبَّ مَخْمَصَةٍ شَرُّ مِنَ التُّخَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -121,7 +121,7 @@ export default {
       },
       {
         id: 'Jika mereka tulus menasehati, maka engkau harus mencurigainya.',
-        ar: 'وَإِنْ هُمَا مَحّضَاكَ النُّصْحَ فَاتَّهِمِِِِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'وَإِنْ هُمَا مَحَضَاكَ النُّصْحَ فَاتَّهِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -131,7 +131,7 @@ export default {
       },
       {
         id: 'Sebab engkau sudah tahu dengan nyata, bagaimana tipu dayanya seorang musuh maupun seorang hakim.',
-        ar: 'فَأَنْتَ تَعْرِفُ كَيْدَ الخَصْمِ وَالْحَكَمِِِِِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'فَأَنْتَ تَعْرِفُ كَيْدَ الخَصْمِ وَالْحَكَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -151,17 +151,17 @@ export default {
       },
       {
         id: 'Maka tiada guna ucapanku agar kau berlaku benar.',
-        ar: 'وَمَا اسْتَقَمْتُ فَمَا قَوْلِ لَكَ اسْتَقِمِِ <small class="end-ayah">۝</small>'
+        ar: 'وَمَا اسْتَقَمْتُ فَمَا قَوْلِ لَكَ اسْتَقِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Dan diriku tiada menambah bekal amal ibadah kesunahan, sebelum kematian datang.',
-        ar: 'وَلاَ تَزَوّدْتُ قَبْلَ المَوْتِ نَافِلَــةً <small class="end-ayah">۝</small>'
+        ar: 'وَلاَ تَزَوَّدْتُ قَبْلَ المَوْتِ نَافِلَــةً <small class="end-ayah">۝</small>'
       },
       {
         id: 'Dan tidak pula aku shalat dan puasa, kecuali hanya ibadah yang wajib saja.',
-        ar: 'ولَمْ أُصَلّ سِوَى فَرْضٍ وَلَمْ أَصُمِِِ <small class="end-ayah">۝</small>'
+        ar: 'ولَمْ أُصَلِّ سِوَى فَرْضٍ وَلَمْ أَصُمِ <small class="end-ayah">۝</small>'
       }
     ]
   ]

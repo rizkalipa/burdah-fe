@@ -41,8 +41,17 @@
           class="w-full bg-gradient-to-r from-amber-400 via-amber-200 to-amber-400 p-3 mb-5 rounded flex items-center justify-center shadow-xl lg:text-xl text-sm"
           v-html="formatLabelNextBtn"
       >
-
       </button>
+      <router-link
+          v-else
+          to="/qasidah-muhammadiyah"
+          class="w-full bg-gradient-to-r from-amber-400 via-amber-200 to-amber-400 p-3 mb-5 rounded flex items-center justify-center shadow-xl lg:text-xl text-sm"
+      >
+        Qasidah Muhammadiyah
+        <span>
+          <i class="fas fa-long-arrow-right ml-3"></i>
+        </span>
+      </router-link>
 
       <div class="flex bg-amber-50 rounded flex justify-between lg:text-xl text-sm">
         <button v-if="true" @click="getPreviousPage" class="px-5 py-3 rounded hover:underline">

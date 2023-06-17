@@ -7,17 +7,17 @@ export default {
         [
             {
                 id: 'Aku abadikan diriku pada sang Nabi ﷺ dengan pujian.',
-                ar: 'خَدَمْتُهُ بِمَدِيحٍ أَسْتَقِيلُ بِهِ <small class="end-ayah">۝</small>'
+                ar: 'خَدَمْتُهُ بِمَدِيْحٍ أَسْتَقِيْلُ بِهِ <small class="end-ayah">۝</small>'
             },
             {
                 id: 'Dengan mengharap ampunan atas dosa-dosa hidup yang terlewatkan dalam bersyair dan pelayanan terhadap raja.',
-                ar: 'ذُنُوبَ عُمْرٍ مَّضٰى فِي الشِّعْرِ وَالنَّدِمِ <small class="end-ayah">۝</small>'
+                ar: 'ذُنُوبَ عُمْرٍ مَضٰى فِي الشِّعْرِ وَالْخِدَمِ <small class="end-ayah">۝</small>'
             }
         ],
         [
             {
                 id: 'Keduanya mengalungi diriku sesuatu yang akibatnya menakutkan dengan dua perkara itu.',
-                ar: 'إِذْ قَلّدَانِيَ مَا تَخْشٰى عَوَاقِبُهُ <small class="end-ayah">۝</small>'
+                ar: 'إِذْ قَلَّدَانِيَ مَا تَخْشٰى عَوَاقِبُهُ <small class="end-ayah">۝</small>'
             },
             {
                 id: 'Seakan-akan diriku hewan sembelihan berupa Unta.',
@@ -27,11 +27,11 @@ export default {
         [
             {
                 id: 'Kuturuti bujuk rayu masa muda dalam bersyair dan berkhidmah.',
-                ar: 'أَطَعْتُ غَيَّ الصِّبَا فِيْ الحَالَتَيْنِ وَمَا <small class="end-ayah">۝</small>'
+                ar: 'أَطَعْتُ غَيَّ الصِّبَا فِيْ الْحَالَتَيْنِ وَمَا <small class="end-ayah">۝</small>'
             },
             {
                 id: 'Tak ada yang kudapatkan kecuali dosa dan penyesalan.',
-                ar: 'حَصَّلْتُ إِلاَّ عَلَى الْأَثَامِ وَالنَّدَمِ <small class="end-ayah">۝</small>'
+                ar: 'حَصَلْتُ إِلاَّ عَلَى الْأَثَامِ وَالنَّدَمِ <small class="end-ayah">۝</small>'
             }
         ],
         [
@@ -51,13 +51,13 @@ export default {
             },
             {
                 id: 'Maka nyata baginya kerugian dalam jual beli dan akad salam.',
-                ar: 'بَيْنَ لَهُ الْغَبْنُ فِيْ بَيْعٍ وَفِيْ سَلَمِ <small class="end-ayah">۝</small>'
+                ar: 'يَبِن لَهُ الْغَبْنُ فِيْ بَيْعٍ وَفِيْ سَلَمِ <small class="end-ayah">۝</small>'
             }
         ],
         [
             {
                 id: 'Jika dosa kulakukan janjiku pada Nabi ﷺ tidaklah terputuskan.',
-                ar: 'إِنْ أٰتِ ذَنْبًا فَمَا عَهْدِيْ بِمُنْتَقِضٍ <small class="end-ayah">۝</small>'
+                ar: 'إِنْ آتِ ذَنْبًا فَمَا عَهْدِيْ بِمُنْتَقِضٍ <small class="end-ayah">۝</small>'
             },
             {
                 id: 'Dan juga tali hubungan takkan terputuskan.',
@@ -77,7 +77,7 @@ export default {
         [
             {
                 id: 'Jika di akhirat nabi tak ulurkan tangan menolongku sebagai anugerah.',
-                ar: 'إِنْ لَمْ يَكُنْ فِيْ مَعَادِيْ أٰخِذًا بِيَدِيْ <small class="end-ayah">۝</small>'
+                ar: 'إِنْ لَمْ يَكُنْ فِيْ مَعَادِيْ آخِذًا بِيَدِيْ <small class="end-ayah">۝</small>'
             },
             {
                 id: 'Maka sampaikanlah kata “ Wahai orang yang tergelincir kakinya ”.',
@@ -101,27 +101,27 @@ export default {
             },
             {
                 id: 'Maka untuk keselamatanku, Nabi ﷺ kudapatkan sebaik baik pemberi jaminan.',
-                ar: 'وَجَدْتُهُ لِخَلَصِي خَيْرَ مُلْتَزِمِ <small class="end-ayah">۝</small>'
+                ar: 'وَجَدْتُهُ لِخَلاَصِي خَيْرَ مُلْتَزِمِ <small class="end-ayah">۝</small>'
             }
         ],
         [
             {
                 id: 'Pemberian Nabi ﷺ takkan luputkan setiap tangan yang membutuhkan.',
-                ar: 'وَلَنْ يَفُوتَ الْغِنٰى مِنْهُ يَدًا تَرِبَتْ <small class="end-ayah">۝</small>'
+                ar: 'وَلَنْ يَفُوْتَ الْغِنٰى مِنْهُ يَدًا تَرِبَتْ <small class="end-ayah">۝</small>'
             },
             {
                 id: 'Susungguhnya hujan akan menghidupi bunga-bunga di bukit tinggi.',
-                ar: 'إَنّ الْحَيَا يُنْبِتُ الْأَزْهَارَ فِيْ اْلأَكَمِ <small class="end-ayah">۝</small>'
+                ar: 'اِنَّ الْحَيَا يُنْبِتُ الْأَزْهَارَ فِيْ اْلأَكَمِ <small class="end-ayah">۝</small>'
             }
         ],
         [
             {
                 id: 'Aku tidaklah mengharapkan dunia yang penuh kenikmatan.',
-                ar: 'وَلَمْ أُرِدْ زُهْرَةَ الدُّنْيَا الَّتِي اقْتَطَفَتْ <small class="end-ayah">۝</small>'
+                ar: 'وَلَمْ أُرِدْ زَهْرَةَ الدُّنْيَا الَّتِي اقْتَطَفَتْ <small class="end-ayah">۝</small>'
             },
             {
                 id: 'Seperti yang Zuhair petik dengan tangannya atas raja haram yang ia puja.',
-                ar: 'يَدَا زُهَيْرٍ بِمَا أَثْنٰى عَلَى حَرَمِ <small class="end-ayah">۝</small>'
+                ar: 'يَدَا زُهَيْرٍ بِمَا أَثْنٰى عَلَى هَرَمِ <small class="end-ayah">۝</small>'
             }
         ],
     ]

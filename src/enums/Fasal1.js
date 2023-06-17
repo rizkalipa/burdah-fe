@@ -7,21 +7,21 @@ export default {
     [
       {
         id: 'Aраkаh kаrеnа teringat tetаnggа уаng tіnggаl di “Dzі Salam”.',
-        ar: 'أَمِنْ تَذَكُّرِ جِيْرَانٍ بِذِی سَلَم <small class="end-ayah">۝</small>'
+        ar: 'أَمِنْ تَذَكُّرِ جِيْرَانٍ بِذِی سَلَمِ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Sehingga engkau сuсurkаn airmata bеrсаmрur dаrаh уаng mеngаlіr dari matamu.',
-        ar: 'مَزَجْتَ دَمْعََا جَرَی مِنْ مُّقْلَةِِ بِدَمِ <small class="end-ayah">۝</small>'
+        ar: 'مَزَجْتَ دَمْعََا جَرَی مِنْ مُّقْلَةِِ بِدَمِِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Ataukah kаrеnа tiupan angin kеnсаng уаng bеrhеmbuѕ dаrі аrаh “Kаzhіmаh”.',
-        ar: 'اَمْ هَبَّتِ الرِّيْحُ مِنْ تِلْقَاءِ گاظِمَةِِ <small class="end-ayah">۝</small>'
+        ar: 'اَمْ هَبَّتِ الرِّيْحُ مِنْ تِلْقَآءِ گاظِمَةِِ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Atаu kаrеnа sinar kіlаt yang mеmbеlаh kеgеlараn mаlаm dari Gunung “Idhаm”.',
-        ar: 'وَأَوْمَضَ الْبَرْقُ فِی الظَّلمَاءِ مِنْ إِضَمِ <small class="end-ayah">۝</small>'
+        ar: 'وَأَوْمَضَ الْبَرْقُ فِی الظَّلمَآءِ مِنْ إِضَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -37,7 +37,7 @@ export default {
     [
       {
         id: 'Apakah sang kekasih kira bahwa tersembunyi cintanya.',
-        ar: 'أَيَحْسَبُ الصَّبُّ أَنَّ الْحُبَّ مُنْكَتِـم <small class="end-ayah">۝</small>'
+        ar: 'أَيَحْسَبُ الصَّبُّ أَنَّ الْحُبَّ مُنْكَتِـمٌ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Diantara air mata yang mengkucur dan hati yang bergelora.',
@@ -57,7 +57,7 @@ export default {
     [
       {
         id: 'Dapatkah engkau pungkiri cintamu, sedang air mata dan derita telah bersaksi atas cintamu.',
-        ar: 'فَكَيْفَ تُنْكِرُ حُباًّ بَعْدَ مَا شَــهِدَتْ <small class="end-ayah">۝</small>'
+        ar: 'فَكَيْفَ تُنْكِرُ حُباًّ بَعْدَ مَا شَــهِدَتْ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Dengan jujur dan tanpa dusta ?.',
@@ -67,7 +67,7 @@ export default {
     [
       {
         id: 'Kesedihanmu menimbulkan dua garis tangis dan kurus lemah.',
-        ar: 'وَأَثْبَتَ الْوَجْدُ خَطَّيْ عَبْرَةٍ وَّضَــنىً <small class="end-ayah">۝</small>'
+        ar: 'وَأَثْبَتَ الْوَجْدُ خَطّيْ عَبْرَةٍ وَّضَــنىً <small class="end-ayah">۝</small>'
       },
       {
         id: 'Bagaikan bunga kuning di kedua pipi dan mawar merah.',
@@ -81,13 +81,13 @@ export default {
       },
       {
         id: 'Cintaku menghalangiku dari berbagai bentuk kenikmatan karena rasa sakit yang ku derita.',
-        ar: 'وَالْحُبّ يَعْتَرِضُ اللّذّاتَ بِالَلَــــــمِ <small class="end-ayah">۝</small>'
+        ar: 'وَالْحُبّ يَعْتَرِضُ اللَّذَّاتِ بِالْاَ لَــــــمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Wahai para pencaci gelora cintaku! Izinkan aku memohon maaf kepadamu.',
-        ar: 'يَا لَا ئِمِي فِي الهَوَى العُذْرِيِّ مَعْذِرَةً <small class="end-ayah">۝</small>'
+        ar: 'يَا لَا ئِمِي فِي الْهَوَى العُذْرِيِّ مَعْذِرَةً <small class="end-ayah">۝</small>'
       },
       {
         id: 'Namun seandainya kau bersikap adil, niscaya engkau takkan mencela diriku.',
@@ -97,31 +97,31 @@ export default {
     [
       {
         id: 'Kini kau tahu keadaanku. Bahkan rahasiaku tidak bisa tertutupi lagi bagi para pemfitnah yang mau merusak cintaku.',
-        ar: 'عَدَتْكَ حَـــالِـي لَاسِرِّيْ بِمُسْتَتِرًٍ <small class="end-ayah">۝</small>'
+        ar: 'عَدَتْكَ حَـــالِـي لَاسِرِّيْ بِمُسْتَتِرٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Sedangkan penyakitku tak juga kunjung sembuh.',
-        ar: 'عَنِ الْوِشَاةِ وَلاَ دَائِيْ بِمُنْحَسِــمِِِ <small class="end-ayah">۝</small>'
+        ar: 'عَنِ الْوُشَاةِ وَلاَ دَائِيْ بِمُنْحَسِــمِِِِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Begitu tulus nasihatmu, akan tetapi aku tak kan pernah mendengarnya.',
-        ar: 'مَحّضْتَنِي النُّصْحَ لَكِنْ لَّسْتُ أَسْمَعُهُ <small class="end-ayah">۝</small>'
+        ar: 'مَحَضْتَنِي النُّصْحَ لَكِنْ لَسْتُ أَسْمَعُهُ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Karena telinga sang pecinta tuli bagi para pencaci.',
-        ar: 'إَنّ الُحِبَّ عَنِ العُذَّالِ فِي صَمَمِِِِ <small class="end-ayah">۝</small>'
+        ar: 'إَنّ الْمُحِبَّ عَنِ العُذَّالِ فِي صَمَمِِِِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Akupun menuduh ubanku turut serta mencercaku.',
-        ar: 'إِنِّى اتَّهَمْتُ نَصِيْحَ الشّيْبِ فِي عَذَلِيُ <small class="end-ayah">۝</small>'
+        ar: 'إِنِّى اتَّهَمْتُ نَصِيْحَ الشّيْبِ فِي عَذَلِي <small class="end-ayah">۝</small>'
       },
       {
         id: 'Padahal ubanku pastilah tulus dalam memperingatkanku.',
-        ar: 'وَالشّيْبُ أَبْعَدُ فِي نُصْحِ عَنِ التُّهَمِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'وَالشّيْبُ أَبْعَدُ فِي نُصْحٍ عَنِ التُّهَمِِِِِ <small class="end-ayah">۝</small>'
       }
     ]
   ]

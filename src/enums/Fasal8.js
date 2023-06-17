@@ -11,7 +11,7 @@ export default {
       },
       {
         id: 'Bak lolongan harimau takutkan kambing nan lupa.',
-        ar: 'كَنَبْأَةٍ أَجْفَلَتْ غُفْلً مِّنَ الْغَنَِِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'كَنَبْأَةٍ أَجْفَلَتْ غُفْلً مِّنَ الْغَنَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -27,41 +27,41 @@ export default {
     [
       {
         id: 'Mereka (para musuh-musud Islam) ingin lari.',
-        ar: 'وَدُّوا الْفِرَارَ فَكَادُوا يَغْبِطُونَ بِهِ <small class="end-ayah">۝</small>'
+        ar: 'وَدُّوْا الْفِرَارَ فَكَادُوْا يَغْبِطُونَ بِهِ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Hampir saja mereka berharap agar anggota badan mereka terbang bersama burung besar dan rajawali.',
-        ar: 'أَشْلَآءَ شَالَتْ مَعَ الْعِقْبَانِ وَالرَّخَمِِ <small class="end-ayah">۝</small>'
+        ar: 'أَشْلَآءَ شَالَتْ مَعَ الْعِقْبَانِ وَالرَّخَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Siang malam berlalu tanpa mereka ketahui hitungannya.',
-        ar: 'تَمْضِيْ اللَّيَالِيْ وَلاَ يَدْرُونَ عِدَّتَهَا <small class="end-ayah">۝</small>'
+        ar: 'تَمْضِيْ اللَّيَالِيْ وَلاَ يَدْرُوْنَ عِدَّتَهَا <small class="end-ayah">۝</small>'
       },
       {
         id: 'Selagi siang malam itu tidak berada dalam bulan-bulan nan mulia.',
-        ar: 'مَا لَمْ تَكُنْ مِّنْ لَيَالِي الْأَشْهُرِ الْحُرُمِِِ <small class="end-ayah">۝</small>'
+        ar: 'مَا لَمْ تَكُنْ مِّنْ لَيَالِي الْأَشْهُرِ الْحُرُمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Islam datang bagai tamu undangan, singgah di halaman sahabat Nabi.',
-        ar: 'كَأَنّمَا الدِّيْنُ ضَيْفٌ حَلَّ سَاحَتَهُمْ <small class="end-ayah">۝</small>'
+        ar: 'كَأَنَّمَا الدِّيْنُ ضَيْفٌ حَلَّ سَاحَتَهُمْ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Bersama orang-orang jantan yang sangat ingin membunuh musuh Islam.',
-        ar: 'بِكُلِّ قَرْمٍ إِلىٰ لَحْمِ الْعِدٰى قَرَمِِِِ <small class="end-ayah">۝</small>'
+        ar: 'بِكُلِّ قَرْمٍ إِلىٰ لَحْمِ الْعِدٰى قَرِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Ia membawa lautan pasukan di atas kuda yang berenang jaya.',
-        ar: 'يَجُرُّ بَحْرَ خَمْيسٍ فَوْقَ سَابِحَةٍ <small class="end-ayah">۝</small>'
+        ar: 'يَجُرُّ بَحْرَ خَمِيْسٍ فَوْقَ سَابِحَةٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Membawa para pemberani lagi jantan bagai debur ombak samudera.',
-        ar: 'تَرْمِيْ بِمَوْجٍ مِنَ الْأَبْطَالِ مُلْتَطِمِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'تَرْمِيْ بِمَوْجٍ مِنَ الْأَبْطَالِ مُلْتَطِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -71,7 +71,7 @@ export default {
       },
       {
         id: 'Menyerang akar kekufuran dengan pedang yang memusnahkan para musuh Islam.',
-        ar: 'يِسْطُوا بِمُسْتَأْصِلٍ لِلكُفْرِ مُصْطَلَمِِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'يَسْطُوْا بِمُسْتَأْصِلٍ لِلْكُفْرِ مُصْطَلِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -81,7 +81,7 @@ export default {
       },
       {
         id: 'Setelah terasing jauh dari pemeluknya terjalin erat hubungan keluarga.',
-        ar: 'مِنْ بَعْدِ غُرْبَتِهَا مَوْصُولَةُ الرَّحِمِ <small class="end-ayah">۝</small>'
+        ar: 'مِنْ بَعْدِ غُرْبَتِهَا مَوْصُوْلَةُ الرَّحِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -91,7 +91,7 @@ export default {
       },
       {
         id: 'Dan sebaik-baik suami tercinta mereka takkan jadi yatim dan janda.',
-        ar: 'وَخَيْرِ بَعْلٍ فَلَمْ تَيْتَمْ وَلَمْ تَئِمِِ <small class="end-ayah">۝</small>'
+        ar: 'وَخَيْرِ بَعْلٍ فَلَمْ تَيْتَمْ وَلَمْ تَئِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -101,7 +101,7 @@ export default {
       },
       {
         id: 'Apa yang mereka lihat dalam setiap medan peperangan ?.',
-        ar: 'مَاذَا رَأَى مِنْهُمُ فِيْ كُلِّ مُصْطَدَمِ <small class="end-ayah">۝</small>'
+        ar: 'مَاذَا رَآى مِنْهُمُ فِيْ كُلِّ مُصْطَدَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -111,7 +111,7 @@ export default {
       },
       {
         id: 'Semua itu adalah tempat malapetaka yang terasa lebih ganas dari penyakit menular.',
-        ar: 'فُصُولَ حَتْفٍ لَّهُمْ أَدْهٰى مِنَ الوَخَمِِ <small class="end-ayah">۝</small>'
+        ar: 'فُصُوْلَ حَتْفٍ لَهُمْ أَدْهٰى مِنَ الوَخَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -121,27 +121,27 @@ export default {
       },
       {
         id: 'Setelah banyak memenggal leher lawan hitam sehitam rambut nan kelam.',
-        ar: 'مِنَ العِدٰى كُلَّ مُسْوَدٍّ مِّنَ اللِّمَمِِِ <small class="end-ayah">۝</small>'
+        ar: 'مِنَ العِدٰى كُلَّ مُسْوَدٍّ مِّنَ اللِّمَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Dengan kayu khat sebagai tombak senjata, mereka tusukkan pada para musuh.',
-        ar: 'وَالكَاتِبِيَ بِسُمْرِ الْخَطِّ مَا تَرَكَتْ <small class="end-ayah">۝</small>'
+        ar: 'وَالْكَاتِبِيْنَ بِسُمْرِ الْخَطِّ مَا تَرَكَتْ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Tombak pena takkan tinggalkan sisa daging terkoyak dari tubuh.',
-        ar: 'أَقْلَمُهُمْ حَرْفٌ جِسْمٍ غَيْرَ مُنَعَجِمِِِِ <small class="end-ayah">۝</small>'
+        ar: 'أَقْلَامُهُمْ حَرْفَ جِسْمٍ غَيْرَ مُنْعَجِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Para tentara nan tajam senjatanya miliki tanda pembeda.',
-        ar: 'شَاكِى السُّلاَحِ لَهُمْ سِيمَا تُمَيِّزُهُمْ <small class="end-ayah">۝</small>'
+        ar: 'شَاكِى السِّلاَحِ لَهُمْ سِيْمَا تُمَيِّزُهُمْ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Bak mawar nan mempesona dengan pohon salam ada tanda pembeda.',
-        ar: 'وَالْوَرْدُ يَمْتَازُ بِالسِّيْمَا مِنَ السَّلَمِِِِِ <small class="end-ayah">۝</small>'
+        ar: 'وَالْوَرْدُ يَمْتَازُ بِالسِّيْمَا عَنِ السَّلَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -151,13 +151,13 @@ export default {
       },
       {
         id: 'Hingga bunga di kelopak tersangka olehmu tentara nan gagah perkasa.',
-        ar: 'فَتَحْسَبُ الزّهْرَ فِيْ الْأَكْمَامِ كُلَّ كَمِيْ <small class="end-ayah">۝</small>'
+        ar: 'فَتَحْسَبُ الزَّهْرَ فِيْ الْأَكْمَامِ كُلَّ كَمِيْ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Seakan-akan mereka dipunggung kuda laksana pepohonan di bukit tinggi.',
-        ar: 'كَأَنّهُمْ فِيْ ظُهُورِ الْخَيْلِ نَبْتُ رُبًا <small class="end-ayah">۝</small>'
+        ar: 'كَأَنَّهُمْ فِيْ ظُهُوْرِ الْخَيْلِ نَبْتُ رُبًا <small class="end-ayah">۝</small>'
       },
       {
         id: 'Karena kuatnya kemantapan belaka bukan karena kuatnya tali.',
@@ -167,7 +167,7 @@ export default {
     [
       {
         id: 'Hati para musuh goncang duka karena takut serangan dahsyat para ksatria.',
-        ar: 'طَارَتْ قُلُوبُ الْعِدٰى مِنْ بَأْسِهِمْ فَـرَقًا <small class="end-ayah">۝</small>'
+        ar: 'طَارَتْ قُلُوْبُ الْعِدٰى مِنْ بَأْسِهِمْ فَـرَقًا <small class="end-ayah">۝</small>'
       },
       {
         id: 'Maka tak dapat bedakan antara kumpulan anak domba dan sekelompok pemberani perkasa.',
@@ -177,7 +177,7 @@ export default {
     [
       {
         id: 'Barangsiapa meraih kemenangan sebab Rasulullah ﷺ.',
-        ar: 'وَمَنْ تَكُنْ بِرَسُولِ اللهِ نَصْرَتُهُ <small class="end-ayah">۝</small>'
+        ar: 'وَمَنْ تَكُنْ بِرَسُوْلِ اللَّهِ نُصْرَتُهُ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Bila Singa di rimba menjumpainya, maka ia akan diam tunduk padanya.',
@@ -201,17 +201,17 @@ export default {
       },
       {
         id: 'Bagai Singa tempatkan anak-anaknya dalam hutan belantara.',
-        ar: 'كَاللَّيْثِ حَلَّ مَعَ الْأَشْبَالِ فِيْ أَجَمِِ <small class="end-ayah">۝</small>'
+        ar: 'كَاللَّيْثِ حَلَّ مَعَ الْأَشْبَالِ فِيْ أَجَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Seringkali kitab suci Al-Qur’an jatuhkan musuh dalam perdebatan.',
-        ar: 'كَمْ جَدّلَتْ كَلِمَاتُ اللهِ مِنْ جَدَلٍ <small class="end-ayah">۝</small>'
+        ar: 'كَمْ جَدَّلَتْ كَلِمَاتُ اللَّهِ مِنْ جَدَلٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Dan telah banyak dalil-dalil pasti kalahkan musuh-musuh sejati.',
-        ar: 'فِيْهِ وَكَمْ خَصَّمَ الْبُرْهَانُ مِنْ خَصِمِِِ <small class="end-ayah">۝</small>'
+        ar: 'فِيْهِ وَكَمْ خَصَمَ الْبُرْهَانُ مِنْ خَصِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -221,7 +221,7 @@ export default {
       },
       {
         id: 'Dan hidupnya teratur dengan rapi walaupun ia seorang anak yatim.',
-        ar: 'فِي الْجَا هِلِيَّةِ والتَّأْدِيْبِ فِي الْيُتُمِ <small class="end-ayah">۝</small>'
+        ar: 'فِي الْجَا هِلِيَّةِ وَالتَّأْدِيْبِ فِي الْيُتُمِ <small class="end-ayah">۝</small>'
       }
     ]
   ]
