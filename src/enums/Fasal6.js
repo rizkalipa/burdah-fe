@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 6 : <span class="font-semibold italic">" Kemuliaan Al-Quran dan Pujian Kepadanya "</span>',
+    id: '<span class="font-semibold italic">Fasal 6 : " Kemuliaan Al-Quran dan Pujian Kepadanya "</span>',
     ar: 'الفصل السادس : في شـرف الــقرآن ومدحـه'
   },
   text: [
@@ -111,7 +111,7 @@ export default {
       },
       {
         id: 'Maknanya nan banyak bertebaran sama sekali tak kan pernah membosankan.',
-        ar: 'وَلَا تُسَامُ عَلىَ الْإِكْثَارِ باِلسَّـــــــأَمِ <small class="end-ayah">۝</small>'
+        ar: 'وَلَا تُسَامُ عَلَى الْإِكْثَارِ بِالسَّـــــــأَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -121,7 +121,7 @@ export default {
       },
       {
         id: 'Sungguh anda telah beroleh bahagia berpeganglah selalu pada tali Allah ﷻ.',
-        ar: 'لَقَدْ ظَفِرْتَ بِحَبْلِ الِلّٰهِ فَاعْتَصِمِ <small class="end-ayah">۝</small>'
+        ar: 'لَقَدْ ظَفِرْتَ بِحَبْلِ اللّٰهِ فَاعْتَصِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -137,7 +137,7 @@ export default {
     [
       {
         id: 'Al-Qur’an laksana telaga yang mampu memutihkan wajah-wajah para pendosa yang datang.',
-        ar: 'كَأَنَّهَا الْحَوْضُ تَبْيَضُّ الْوُجُوهُ بِهِ <small class="end-ayah">۝</small>'
+        ar: 'كَأَنَّهَا الْحَوْضُ تَبْيَضُّ الْوُجُوْهُ بِهِ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Dengan wajah hitam bagaikan arang.',

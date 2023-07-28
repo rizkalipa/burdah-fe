@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 3 : <span class="font-semibold italic">" Pujian kepada Nabi Muhammad ﷺ "</span>',
+    id: '<span class="font-semibold italic">Fasal 3 : " Pujian kepada Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل الثالث : في مدح سيد المرسلين صلى الله عليه وسلم'
   },
   text: [
@@ -67,7 +67,7 @@ export default {
     [
       {
         id: 'Nabi kita Rasulullah Saw, sang penganjur kebaikan dan pencegah kemunkaran Tak seorangpun lebih baik perkataanya daripada Rasulullah ﷺ.',
-        ar: 'نَبِيُّنَا اْلآمِرُ النَّاهِي فَلَا أَحَدٌ <small class="end-ayah">۝</small>'
+        ar: 'نَبِيُّنَا الْآمِرُ النَّاهِي فَلَا أَحَدٌ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Saat menolak seseorang dengan berkata ‘jangan’ atau saat ditanya dengan berkata ‘ia’.',
@@ -81,7 +81,7 @@ export default {
       },
       {
         id: 'untuk menghadapi setiap peristiwa dahsyat yang menimpa umat manusia.',
-        ar: 'لِكُلِّ هَوْلٍ مِنَ الْأِهْوَالِ مُقْتَحَمِ <small class="end-ayah">۝</small>'
+        ar: 'لِكُلِّ هَوْلٍ مِنَ الْأَهْوَالِ مُقْتَحَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -91,7 +91,7 @@ export default {
       },
       {
         id: 'Maka siapapun yang berpegang teguh padanya, berarti ia berpegang pada tali yang takkan pernah putus.',
-        ar: 'مُسْتَمْسِكُونَ بِحَبْلٍ غَيْرِ مُنْفَصِمِ <small class="end-ayah">۝</small>'
+        ar: 'مُسْتَمْسِكُوْنَ بِحَبْلٍ غَيْرِ مُنْفَصِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -121,7 +121,7 @@ export default {
       },
       {
         id: 'Mengharap setitik ilmu dan sebaris tanda bunyi huruf dalam hikmah.',
-        ar: 'مِنْ نُقْطَةِ الْعِلْمِ أَوْ مِنْ شَكْلَةِ الَحِكَمِ <small class="end-ayah">۝</small>'
+        ar: 'مِنْ نُقْطَةِ الْعِلْمِ أَوْ مِنْ شَكْلَةِ الْحِكَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -197,11 +197,11 @@ export default {
     [
       {
         id: 'Seluruh makhluk rapuh, tiada mampu memahami rahasia hakikat kenabian Nabi Muhammad ﷺ.',
-        ar: 'أَعْيَا الوَرٰى فَهْمُ مَعْنَاهُ فَلَيْسَ يُرٰى <small class="end-ayah">۝</small>'
+        ar: 'أَعْيَا الْوَرٰى فَهْمُ مَعْنَاهُ فَلَيْسَ يُرٰى <small class="end-ayah">۝</small>'
       },
       {
         id: 'Takkan melihat dari dekat atau jauh kecuali lemah tak berdaya berdiam diri.',
-        ar: 'لِلْقُرْبِ وَالْبُعْدِ فِيـــــــهِ غَيْرَ مُنْفَحِمِ <small class="end-ayah">۝</small>'
+        ar: 'لِلْقُرْبِ وَالْبُعْدِ فِيْـــــــهِ غَيْرَ مُنْفَحِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -241,7 +241,7 @@ export default {
       },
       {
         id: 'Tidak lain semua itu terhubung dengan Nur-nya Rasulullah ﷺ,',
-        ar: 'فَإِنَّمَا اتَّصَلَتْ مِنْ نُـــــــــوِرِهِ بِهِمِ <small class="end-ayah">۝</small>'
+        ar: 'فَإِنَّمَا اتَّصَلَتْ مِنْ نُـــــــــوْرِهِ بِهِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -267,11 +267,11 @@ export default {
     [
       {
         id: 'Keanggunannya laksana bunga, dan kemuliaannya bagaikan purnama.',
-        ar: 'كَالزَّهْرِ فِيْ تَرَفٍ وَالبَدْرِ فِي شَرَفٍ <small class="end-ayah">۝</small>'
+        ar: 'كَالزَّهْرِ فِيْ تَرَفٍ وَالْبَدْرِ فِي شَرَفٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Kedermawanannya laksana samudera, cita-citanya bagai perjalanan masa.',
-        ar: 'وَالبَحْرِ فِي كَرَمٍ وَالدَّهْرِ فِي هِمَمِ <small class="end-ayah">۝</small>'
+        ar: 'وَالْبَحْرِ فِي كَرَمٍ وَالدَّهْرِ فِيْ هِمَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [

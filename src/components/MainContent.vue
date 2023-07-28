@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="lg:w-6/12 md:w-8/12 w-full mx-auto my-16 mb-32 text-amber-950 text-3xl tracking-wider" style="line-height: 4rem">
+    <div class="lg:w-6/12 md:w-8/12 w-full mx-auto my-16 mb-32 text-amber-950 text-3xl tracking-wide" style="line-height: 4rem">
       <router-view></router-view>
     </div>
   </div>

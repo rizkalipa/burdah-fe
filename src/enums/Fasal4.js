@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 4 : <span class="font-semibold italic">" Kelahiran Nabi Muhammad ﷺ "</span>',
+    id: '<span class="font-semibold italic">Fasal 4 : " Kelahiran Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل الرابع : في مولده عليه الصلاة والسلام'
   },
   text: [
@@ -121,7 +121,7 @@ export default {
       },
       {
         id: 'Atau bak pasukan yang dihujani kerikil oleh tangan Rasul.',
-        ar: 'أَوْ عَسْكَرٌ بِالْحَصٰى مِنْ رَاحَتَيْهِ رُمِيِْ <small class="end-ayah">۝</small>'
+        ar: 'أَوْ عَسْكَرٌ بِالْحَصٰى مِنْ رَاحَتَيْهِ رُمِيْ <small class="end-ayah">۝</small>'
       }
     ],
     [

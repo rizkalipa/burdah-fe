@@ -1,6 +1,6 @@
 export default {
     title: {
-        id: 'Fasal 9 : <span class="font-semibold italic">" Tawassul Kepada Nabi Muhammad ﷺ "</span>',
+        id: '<span class="font-semibold italic">Fasal 9 : " Tawassul Kepada Nabi Muhammad ﷺ "</span>',
         ar: 'الفصل التاسع : في التوسل بالنبي صلى الله عليه وسلم'
     },
     text: [
@@ -11,7 +11,7 @@ export default {
             },
             {
                 id: 'Dengan mengharap ampunan atas dosa-dosa hidup yang terlewatkan dalam bersyair dan pelayanan terhadap raja.',
-                ar: 'ذُنُوبَ عُمْرٍ مَضٰى فِي الشِّعْرِ وَالْخِدَمِ <small class="end-ayah">۝</small>'
+                ar: 'ذُنُوبَ عُمْرٍ مَضٰى فِيْ الشِّعْرِ وَالْخِدَمِ <small class="end-ayah">۝</small>'
             }
         ],
         [
@@ -51,7 +51,7 @@ export default {
             },
             {
                 id: 'Maka nyata baginya kerugian dalam jual beli dan akad salam.',
-                ar: 'يَبِن لَهُ الْغَبْنُ فِيْ بَيْعٍ وَفِيْ سَلَمِ <small class="end-ayah">۝</small>'
+                ar: 'يَبِنْ لَهُ الْغَبْنُ فِيْ بَيْعٍ وَفِيْ سَلَمِ <small class="end-ayah">۝</small>'
             }
         ],
         [
@@ -111,7 +111,7 @@ export default {
             },
             {
                 id: 'Susungguhnya hujan akan menghidupi bunga-bunga di bukit tinggi.',
-                ar: 'اِنَّ الْحَيَا يُنْبِتُ الْأَزْهَارَ فِيْ اْلأَكَمِ <small class="end-ayah">۝</small>'
+                ar: 'اِنَّ الْحَيَا يُنْبِتُ الْأَزْهَارَ فِيْ الْأَكَمِ <small class="end-ayah">۝</small>'
             }
         ],
         [

@@ -1,13 +1,13 @@
 export default {
   title: {
-    id: 'Fasal 8 : <span class="font-semibold italic">" Perjuangan Nabi Muhammad ﷺ "</span>',
+    id: '<span class="font-semibold italic">Fasal 8 : " Perjuangan Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل الثامن: في جهاد النبي صلى الله عليه وسلم'
   },
   text: [
     [
       {
         id: 'Berita kenabian jadikan hati musuh gentar ketakutan.',
-        ar: 'رَاعَتْ قُلُوبَ الْعِدٰى أَنْبَاءُ بِعْثَتِهِ <small class="end-ayah">۝</small>'
+        ar: 'رَاعَتْ قُلُوْبَ الْعِدٰى أَنْبَاءُ بِعْثَتِهِ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Bak lolongan harimau takutkan kambing nan lupa.',
@@ -27,7 +27,7 @@ export default {
     [
       {
         id: 'Mereka (para musuh-musud Islam) ingin lari.',
-        ar: 'وَدُّوْا الْفِرَارَ فَكَادُوْا يَغْبِطُونَ بِهِ <small class="end-ayah">۝</small>'
+        ar: 'وَدُّوْا الْفِرَارَ فَكَادُوْا يَغْبِطُوْنَ بِهِ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Hampir saja mereka berharap agar anggota badan mereka terbang bersama burung besar dan rajawali.',
@@ -37,11 +37,11 @@ export default {
     [
       {
         id: 'Siang malam berlalu tanpa mereka ketahui hitungannya.',
-        ar: 'تَمْضِيْ اللَّيَالِيْ وَلاَ يَدْرُوْنَ عِدَّتَهَا <small class="end-ayah">۝</small>'
+        ar: 'تَمْضِيْ اللَّيَالِيْ وَلَا يَدْرُوْنَ عِدَّتَهَا <small class="end-ayah">۝</small>'
       },
       {
         id: 'Selagi siang malam itu tidak berada dalam bulan-bulan nan mulia.',
-        ar: 'مَا لَمْ تَكُنْ مِّنْ لَيَالِي الْأَشْهُرِ الْحُرُمِ <small class="end-ayah">۝</small>'
+        ar: 'مَا لَمْ تَكُنْ مِّنْ لَيَالِى الْأَشْهُرِ الْحُرُمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -81,7 +81,7 @@ export default {
       },
       {
         id: 'Setelah terasing jauh dari pemeluknya terjalin erat hubungan keluarga.',
-        ar: 'مِنْ بَعْدِ غُرْبَتِهَا مَوْصُوْلَةُ الرَّحِمِ <small class="end-ayah">۝</small>'
+        ar: 'مِنْ بَعْدِ غُرْبَتِهَا مَوْصُوْلَةَالرَّحِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -171,7 +171,7 @@ export default {
       },
       {
         id: 'Maka tak dapat bedakan antara kumpulan anak domba dan sekelompok pemberani perkasa.',
-        ar: 'فَمَا تُفَرِّقُ بَيْنَ الْبَهْمِ وَالبُهَمِ <small class="end-ayah">۝</small>'
+        ar: 'فَمَا تُفَرِّقُ بَيْنَ الْبَهْمِ وَالْبُهَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -197,7 +197,7 @@ export default {
     [
       {
         id: 'Nabi tempatkan umatnya dalam benteng agamanya.',
-        ar: 'أَحَلَّ أُمّتَهُ فِيْ حِرْزِ مِلَّتِهِ <small class="end-ayah">۝</small>'
+        ar: 'أَحَلَّ أُمَّتَهُ فِيْ حِرْزِ مِلَّتِهِ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Bagai Singa tempatkan anak-anaknya dalam hutan belantara.',

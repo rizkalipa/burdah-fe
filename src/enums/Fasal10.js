@@ -1,6 +1,6 @@
 export default {
     title: {
-        id: 'Fasal 10 : <span class="font-semibold italic">" Munajat dan Penyampaian Hajat kepada Nabi Muhammad ﷺ "</span>',
+        id: '<span class="font-semibold italic">Fasal 10 : " Munajat dan Penyampaian Hajat kepada Nabi Muhammad ﷺ "</span>',
         ar: 'الفصل العاشر : في المناجاة وعرض الحاجات'
     },
     text: [
@@ -11,7 +11,7 @@ export default {
         },
         {
             id: 'Baginda kala huru-hara kiamat melanda semua manusia.',
-            ar: 'سِوَاكَ عِنْدَ حُلُوْلِ الحَادِثِ العَمِمِ <small class="end-ayah">۝</small>'
+            ar: 'سِوَاكَ عِنْدَ حُلُوْلِ الحَادِثِ الْعَمِمِ <small class="end-ayah">۝</small>'
         }
     ],
     [
@@ -21,7 +21,7 @@ export default {
         },
         {
             id: 'Tatkala Dzat yang Maha Mulia bersifat dengan nama Dzat Penyiksa (melaksanakan siksaan-Nya).',
-            ar: 'إِذَا الْكَرِيْمُ تَجَلّٰى بِاسْمِ مُنْتَقِمِ <small class="end-ayah">۝</small>'
+            ar: 'إِذَالْكَرِيْمُ تَجَلّٰى بِاسْمِ مُنْتَقِمِ <small class="end-ayah">۝</small>'
         }
     ],
     [
@@ -47,11 +47,11 @@ export default {
     [
         {
             id: 'Semoga rahmat Tuhanku, ketika dibagi-bagikan pada hambanya.',
-            ar: 'لَعَلَّ رَحْمَةَ رَبِّي حِيْنَ يَقْسِمُـــــهَا <small class="end-ayah">۝</small>'
+            ar: 'لَعَلَّ رَحْمَةَ رَبِّيْ حِيْنَ يَقْسِمُـــــهَا <small class="end-ayah">۝</small>'
         },
         {
             id: 'Sesuai dengan kadar kedurhakaannya.',
-            ar: 'تَأْتِي عَلىٰ حَسَبِ العِصْيَانِ فِي الْقِسَمِ <small class="end-ayah">۝</small>'
+            ar: 'تَأْتِيْ عَلٰى حَسَبِ الْعِصْيَانِ فِيْ الْقِسَمِ <small class="end-ayah">۝</small>'
         }
     ],
     [
@@ -67,7 +67,7 @@ export default {
     [
         {
             id: 'Ya Allah, kasihanilah hamba-mu ini di dunia maupun akhirat nanti.',
-            ar: 'وَالْطُفْ بِعَبْدِكَ فِي الدَّارَيْنِ إَنَّ لَهُ <small class="end-ayah">۝</small>'
+            ar: 'وَالْطُفْ بِعَبْدِكَ فِيْ الدَّارَيْنِ إِنَّ لَهُ <small class="end-ayah">۝</small>'
         },
         {
             id: 'Sesungguhnya ia punya kesabaran yang sangat lemah. Kapan saja bencana menimpanya, ia pasti lari tak tahan.',
@@ -81,63 +81,63 @@ export default {
         },
         {
             id: 'Kepada junjungan Nabi Agung Muhammad ﷺ, layaknya hujan mengalir deras.',
-            ar: 'عَلَى النَّبِيِّ بِمُنْهَلٍّ وَمُنْسَجِمِ <small class="end-ayah">۝</small>'
+            ar: 'عَلٰى النَّبِيِّ بِمُنْهَلٍّ وَمُنْسَجِمِ <small class="end-ayah">۝</small>'
         }
     ],
     [
         {
             id: 'Selagi angin timur masih menggerakkan dahan-dahan pohon Ban.',
-            ar: 'مَا رَنَّحَتْ عَذَبَاتِ الْبَانِ رِيحُ صَبًا <small class="end-ayah">۝</small>'
+            ar: 'مَا رَنَّحَتْ عَذَبَاتِ الْبَانِ رِيْحُ صَبًا <small class="end-ayah">۝</small>'
         },
         {
             id: 'Dan selagi pengembala Unta, senangkan Unta dengan suara merdu.',
-            ar: 'وَأَطْرَبَ الْعِيْسَ حَادِي الْعِيْسِ بِالنَّغَمِ <small class="end-ayah">۝</small>'
+            ar: 'وَأَطْرَبَ الْعِيْسَ حَادِيْ الْعِيْسِ بِالنَّغَمِ <small class="end-ayah">۝</small>'
         }
     ],
     [
         {
             id: 'Kemudian ridho-Mu semoga tercurahkan kepada para sahabat Rasul ﷺ.',
-            ar: 'ثُمَّ الرِّضَا عَنْ أَبِي بَكْرٍ وَعَنْ عُمَرٍ <small class="end-ayah">۝</small>'
+            ar: 'ثُمَّ الرِّضَا عَنْ أَبِيْ بَكْرٍ وَعَنْ عُمَرٍ <small class="end-ayah">۝</small>'
         },
         {
             id: 'Abu Bakar, Umar, Ali, dan Utsman.',
-            ar: 'وَعَنْ عَلِيٍّ وَعَنْ عُثْمَانَ ذِي الْكَرَمِ <small class="end-ayah">۝</small>'
+            ar: 'وَعَنْ عَلِيٍّ وَعَنْ عُثْمَانَ ذِى الْكَرَمِ <small class="end-ayah">۝</small>'
         }
     ],
     [
         {
             id: 'Begitu pula keluarga, para sahabat-sahabat Rasul yang lain, dan para Tabi’in.',
-            ar: 'وَالْآلِ وَالصَّحْبِ ثُمَّ التَابِعِيْنَ فَهُمْ <small class="end-ayah">۝</small>'
+            ar: 'وَالْآلِ وَالصَّحْبِ ثُمَّ التَّابِعِيْنَ فَهُمْ <small class="end-ayah">۝</small>'
         },
         {
             id: 'Mereka adalah orang yang ahli taqwa, bersih, belas kasihan dan mulia.',
-            ar: 'أَهْلُ التُّقٰى وَالنَّقَا وَالحِلْمِ وَالْكَرَمِ <small class="end-ayah">۝</small>'
+            ar: 'أَهْلُ التُّقٰى وَالنَّقَا وَالْحِلْمِ وَالْكَرَمِ <small class="end-ayah">۝</small>'
         }
     ],
     [
         {
             id: 'Wahai Tuhanku! Melalui perantara kekasihmu (Nabi Muhammad ﷺ) sampaikanlah kami pada tujuan kami.',
-            ar: 'يِا رَبِّ بِالمُصْطَفَى بَلِّغْ مَقَاصِدَنَا <small class="end-ayah">۝</small>'
+            ar: 'يَا رَبِّ بِالْمُصْطَفَى بَلِّغْ مَقَاصِدَنَا <small class="end-ayah">۝</small>'
         },
         {
             id: 'Dan ampunilah dosa-dosa kami yang lalu, wahai Sang Maha Pemurah.',
-            ar: 'وَاغْفِرْ لَنَا مَا مَضَى يَا وَاسِعَ الكَرَمِ <small class="end-ayah">۝</small>'
+            ar: 'وَاغْفِرْ لَنَا مَا مَضَى يَا وَاسِعَ الْكَرَمِ <small class="end-ayah">۝</small>'
         }
     ],
     [
         {
             id: 'Ampunilah segenap kaum muslimin wahai Tuhanku, atas dosa-dosa mereka.',
-            ar: 'وَاغْفِرْ إِلٰهِي لِكُلِّ الْمُسْلِمِيْنَ بِمَا <small class="end-ayah">۝</small>'
+            ar: 'وَاغْفِرْ إِلٰهِى لِكُلِّ الْمُسْلِمِيْنَ بِمَا <small class="end-ayah">۝</small>'
         },
         {
             id: 'Sebab apa yang mereka baca di Masjid Al-Aqsha dan di Masjid Al Haram.',
-            ar: 'يَتْلُوْهُ فِي المَسْجِدِ الأَقْصٰى وَفِي الْحَرَمِ <small class="end-ayah">۝</small>'
+            ar: 'يَتْلُوْهُ فِيْ الْمَسْجِدِ الْأَقْصٰى وَفِيْ الْحَرَمِ <small class="end-ayah">۝</small>'
         }
     ],
     [
         {
             id: 'Melalui keagungan seorang Nabi ﷺ yang rumahnya di tanah haram.',
-            ar: 'بِجَاهِ مَنْ بَيْتُهُ فيِ طَيْبَةٍ حَرَمٌ <small class="end-ayah">۝</small>'
+            ar: 'بِجَاهِ مَنْ بَيْتُهُ فِيْ طَيْبَةٍ حَرَمٌ <small class="end-ayah">۝</small>'
         },
         {
             id: 'Dan namanya menjadi sumpah paling agung.',
@@ -147,11 +147,11 @@ export default {
     [
         {
             id: 'Inilah syair-syair Burdah yang telah sampai pada penghabisan.',
-            ar: 'وَهَذِهِ بُرْدَةُ المُخْتَارِ قَدْ خُتِمَتْ <small class="end-ayah">۝</small>'
+            ar: 'وَهَذِهِ بُرْدَةُ الْمُخْتَارِ قَدْ خُتِمَتْ <small class="end-ayah">۝</small>'
         },
         {
             id: 'Segala puji bagi Allah ﷻ, dari permulaan sampai penghabisan.',
-            ar: 'وَالْحَمْدُ للَّهِ فيِ بَدْءٍ وَفيِ خِتَمِ <small class="end-ayah">۝</small>'
+            ar: 'وَالْحَمْدُ لِلَّهِ فِيْ بَدْءٍ وَفِيْ خَتَمِ <small class="end-ayah">۝</small>'
         }
     ],
     [

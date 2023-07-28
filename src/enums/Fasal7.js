@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 7 : <span class="font-semibold italic">" Isra’ Mi’raj Nabi Muhammad ﷺ "</span>',
+    id: '<span class="font-semibold italic">Fasal 7 : " Isra’ Mi’raj Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل السابع : في إسرائه ومعراجه صلى الله عليه وسلم'
   },
   text: [
@@ -21,13 +21,13 @@ export default {
       },
       {
         id: 'Dan duhai Nabi nan sebagai nikmat agung bagi orang yang ingin beruntung.',
-        ar: 'وَمَنْ هُوَ الِنّعْمَةُ الْعُظْمٰــــى لِمُغْتَنِمِ <small class="end-ayah">۝</small>'
+        ar: 'وَمَنْ هُوَ النِّعْمَةُ الْعُظْمٰــــى لِمُغْتَنِمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
       {
         id: 'Dikala malam engkau berjalan dari Masjidil Haram ke Masjidil Aqsha.',
-        ar: 'سَرَيْتَ مِنْ حَرَمٍ لَيــــْلً إِلَىٰ حَرَمٍ <small class="end-ayah">۝</small>'
+        ar: 'سَرَيْتَ مِنْ حَرَمٍ لَيْــــلً إِلٰى حَرَمٍ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Bagai purnama yang berjalan menembus malam gulita.',
@@ -37,7 +37,7 @@ export default {
     [
       {
         id: 'Dan engkau terus naik di waktu malam hingga suatu tempat engkau gapai.',
-        ar: 'وَبِتَّ تَرْقـــىٰ إِلىٰ أَنْ نِلْتَ مَنْزِلَةً <small class="end-ayah">۝</small>'
+        ar: 'وَبِتَّ تَرْقٰـــى إِلٰى أَنْ نِلْتَ مَنْزِلَةً <small class="end-ayah">۝</small>'
       },
       {
         id: 'yaitu tempat dimana tali busur dengan panahnya belum pernah dicapai dan diasah.',
@@ -51,7 +51,7 @@ export default {
       },
       {
         id: 'Laksana penghormatan pelayan kepada sang majikan.',
-        ar: 'وَالرُّسْلِ تَقْدِيَمَ مَخْدُوْمٍ عَلىٰ خَدَمِِ <small class="end-ayah">۝</small>'
+        ar: 'وَالرُّسْلِ تَقْدِيْمَ مَخْدُوْمٍ عَلٰى خَدَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -81,7 +81,7 @@ export default {
       },
       {
         id: 'Karena dengan khusus dipanggil namamu bak mufrad `alam dalam kekhususannya.',
-        ar: 'نُوْدِيْتَ بِالرّفْعِ مِثْلَ الْمُفْرَدِ الْعَلَمِ <small class="end-ayah">۝</small>'
+        ar: 'نُوْدِيْتَ بِالرَّفْعِ مِثْلَ الْمُفْرَدِ الْعَلَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -91,7 +91,7 @@ export default {
       },
       {
         id: 'Dan rahasia nan tiada terbuka tersimpan dari makhluk tercipta.',
-        ar: 'عَنِ الْعُيُونِ وَسِرٍّ أَيِّ مُكْتَتَمِ <small class="end-ayah">۝</small>'
+        ar: 'عَنِ الْعُيُوْنِ وَسِرٍّ أَيِّ مُكْتَتَمِ <small class="end-ayah">۝</small>'
       }
     ],
     [

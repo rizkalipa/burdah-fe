@@ -1,6 +1,6 @@
 export default {
   title: {
-    id: 'Fasal 5 : <span class="font-semibold italic">" Mukjizat Nabi Muhammad ﷺ "</span>',
+    id: '<span class="font-semibold italic">Fasal 5 : " Mukjizat Nabi Muhammad ﷺ "</span>',
     ar: 'الفصل الخامس : في معجزاته صلى الله عليه وسلم'
   },
   text: [
@@ -51,7 +51,7 @@ export default {
       },
       {
         id: 'Semua mata kafir jadi buta tak dapat melihat keberadaan mereka berdua.',
-        ar: 'وَكُلُّ طَرْفٍ مِنَ الكُفَّـــــــــــارِ عَنْهُ عَمِيْ <small class="end-ayah">۝</small>'
+        ar: 'وَكُلُّ طَرْفٍ مِنَ الْكُفَّـــــــــــارِ عَنْهُ عَمِيْ <small class="end-ayah">۝</small>'
       }
     ],
     [
@@ -67,7 +67,7 @@ export default {
     [
       {
         id: 'Mereka berperasangka terhadap Nabi yang merupakan sebaik-baik makhluk bahwa jika beliau berada di dalam gua.',
-        ar: 'ظَنُّـــوْا الْحَمَامَ وَظَنُّوْا الْعَنْكَبُوتَ عَلىٰ <small class="end-ayah">۝</small>'
+        ar: 'ظَنُّـــوْا الْحَمَامَ وَظَنُّوْا الْعَنْكَبُوْتَ عَلىٰ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Maka merpati takkan mungkin berputar mengelilingi gua itu Dan laba-laba pun takkan menenun sarangnya di mulut gua.',
@@ -87,7 +87,7 @@ export default {
     [
       {
         id: 'Aku tidak akan meminta harta kekayaan dunia dan akhirat dari tangan Beliau.',
-        ar: 'مَا سَامَنِى الدَّهْرُ ضَيْماً وَاسْتَجَرْتُ بِهِ <small class="end-ayah">۝</small>'
+        ar: 'مَا سَامَنِى الدَّهْرُ ضَيْمًا وَاسْتَجَرْتُ بِهِ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Melainkan aku kan mengambil pemberian dari sebaik-baik orang dalam memenuhi permintaan umatnya.',
@@ -97,7 +97,7 @@ export default {
     [
       {
         id: 'Tidaklah aku mencari kekayaan dunia akhirat dari kemurahannya.',
-        ar: '<small class="end-ayah">۝</small> وَلَا الْتَمَسْتُ غِنَى الدَّرَيْنِ مِنْ يَـــــدِهَ'
+        ar: '<small class="end-ayah">۝</small> وَلَا الْتَمَسْتُ غِنَى الدَّرَيْنِ مِنْ يَـــــدِهِ'
       },
       {
         id: 'Melainkan aku peroleh sebaik-baik pemberiannya.',
@@ -107,7 +107,7 @@ export default {
     [
       {
         id: 'Tidak dapat kau ingkari wahyu di dalam mimpinya Rasulullah ﷺ.',
-        ar: 'لَا تُنْكِرِ الْوَحْيَ مِنْ رُؤيَاهُ إنَّ لَهُ <small class="end-ayah">۝</small>'
+        ar: 'لَا تُنْكِرِ الْوَحْيَ مِنْ رُؤْيَاهُ إنَّ لَهُ <small class="end-ayah">۝</small>'
       },
       {
         id: 'Karena ia punya hati yang ketika kedua matanya tertidur, hati beliau tetap terjaga.',
@@ -161,7 +161,7 @@ export default {
       },
       {
         id: 'Air mengalir dari samudera atau mengalir dari lembah yang menganga.',
-        ar: 'سَيْبًا مِّنَ الْيَمِّ أَوْ سَيْلاً مِنَ العَرِمِِ <small class="end-ayah">۝</small>'
+        ar: 'سَيْبًا مِّنَ الْيَمِّ أَوْ سَيْلاً مِنَ العَرِمِ <small class="end-ayah">۝</small>'
       }
     ]
   ]

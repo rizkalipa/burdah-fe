@@ -7,7 +7,7 @@
           rounded py-8 px-8 relative drop-shadow-xl z-10 border-amber-900"
     >
       <div>
-        <p v-if="data.title.ar" class="text-lg italic mb-5 font-amiri">{{ data.title.ar }}</p>
+        <p v-if="data.title.ar" class="text-lg italic mb-5 font-amiri tracking-normal">{{ data.title.ar }}</p>
         <p class="text-xl" v-html="data.title.id"></p>
       </div>
       <button class="bg-gradient-to-r from-amber-900 via-amber-700 to-amber-900 border rounded-full text-amber-50 p-2 text-sm absolute -bottom-3">

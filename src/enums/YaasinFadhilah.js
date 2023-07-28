@@ -1,6 +1,6 @@
 export default {
     title: {
-        id: 'Yaasin Fadhilah',
+        id: '<span class="font-semibold italic">Yaasin Fadhilah</i>',
         ar: ''
     },
     text: [

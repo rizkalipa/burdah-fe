@@ -28,7 +28,7 @@
     </div>
 
     <div class="mb-5 lg:px-8 px-5 pb-8">
-      <p class="text-lg font-amiri mb-5" v-html="getMuqaddimah.text.ar"></p>
+      <p class="text-lg font-amiri mb-5 tracking-normal" v-html="getMuqaddimah.text.ar"></p>
       <p class="text-sm" v-html="getMuqaddimah.text.id"></p>
     </div>
 
